@@ -26,6 +26,8 @@ For a list of open tasks please visit: <a href="https://docs.google.com/spreadsh
 
 SG9 Meets once a month on the **second Monday** of the month, between **16:30-18:00 UTC (9:30-11:00 Pacific)**
 
+### Next Telecon: Jun 14th, 16:30 UTC
+
 ## Info
 
 * The current focus of the group is on C++23 Ranges utilities, though we welcome all relevant papers.
