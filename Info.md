@@ -2,9 +2,9 @@
 
 ## C++ Ranges Status
 
-The current focuse of the group is on C++23 Ranges utilities, though we welcome all relevant papers.
+The current focus of the group is on C++23 Ranges utilities, though we welcome all relevant papers.
 
-The following list contains all ranges utilities currently in work. 
+The following list contains all ranges utilities currently in the works. 
 For a list of open tasks please visit: <a href="https://docs.google.com/spreadsheets/d/15QsTFlFN8019ZCkjaKKxHCIKSosI3El4ETgarD0Y7_E/edit?usp=sharing">Ranges Status</a>
 
 | Paper | Paper Name | Authors | Tier | SG9 | LEWG | Status |
@@ -29,9 +29,9 @@ SG9 Meets once a month on the **second Monday** of the month, between **16:30-18
 
 ## Info
 
-* The current focuse of the group is on C++23 Ranges utilities, though we welcome all relevant papers.
+* The current focus of the group is on C++23 Ranges utilities, though we welcome all relevant papers.
 * List of objectives:  <a href="http://wg21.link/P2214">[P2214]: A Plan for C++23 Ranges</a>
 * SG9 Info page:  <a href="https://lists.isocpp.org/mailman/listinfo.cgi/sg9">Reflector Info</a>
-* To request scheduling a paper in the agenda, please send an email in the reflector.
-* **We would love your help!** For a list of open tasks please visit: <a href="https://docs.google.com/spreadsheets/d/15QsTFlFN8019ZCkjaKKxHCIKSosI3El4ETgarD0Y7_E/edit?usp=sharing">Ranges Status</a>
+* To schedule a paper in the agenda, please send a request by email in the reflector.
+* **We welcome your help!** For a list of open tasks please visit: <a href="https://docs.google.com/spreadsheets/d/15QsTFlFN8019ZCkjaKKxHCIKSosI3El4ETgarD0Y7_E/edit?usp=sharing">Ranges Status</a>
 
