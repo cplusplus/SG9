@@ -15,7 +15,6 @@ For a list of open tasks please visit: <a href="https://docs.google.com/spreadsh
 | <a href="http://wg21.link/P2328">P2328</a>| join_view should join all views of ranges | Tim Song | T1 | | | <a href="http://wg21.link/P2328">github</a> |
 | <a href="http://wg21.link/P2164">P2164</a>| views::enumerate | Corentin Jabot | T1 | | |<a href="http://wg21.link/P2164/github">github</a> |
 | <a href="http://wg21.link/P2321">P2321</a>| zip | Tim Song | T1 | | |<a href="http://wg21.link/P2321/github">github</a> |
-| <a href="http://wg21.link/P2321">P2321</a>| zip | Tim Song | T1 | | |<a href="http://wg21.link/P2321/github">github</a> |
 | <a href="http://wg21.link/P2322">P2322</a>| ranges::fold | Barry Revzin | T1 | |2021-07-20 |<a href="http://wg21.link/P2322/github">github</a> |
 | ||  |  |  |  |  |
 | <a href="http://wg21.link/P2387">P2387</a>| Pipe support for user-defined range adaptors | Barry Revzin | |2021-06-14 |2021-07-20 |<a href="http://wg21.link/P2387/github">github</a> |
