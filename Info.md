@@ -9,16 +9,20 @@ For a list of open tasks please visit: <a href="https://docs.google.com/spreadsh
 
 ### Ongoing
 
-| Paper | Paper Name | Authors | Tier | SG9 | LEWG | Status |
-| -     |-           | -       |-     |-    | -    | -      |
-| <a href="http://wg21.link/P1206">P1206</a>| ranges::to: A function to convert any range to a container | Corentin Jabot, Eric Niebler, Casey Carter| T1 | 2021-06-14| 2021-07-20 |<a href="http://wg21.link/P1206/github">github</a> |
-| <a href="http://wg21.link/P2286">P2286</a>| Formatting Ranges | Barry Revzin | T1 | |2021-07-20 |<a href="http://wg21.link/P2286/github">github</a> |
-| <a href="http://wg21.link/P2374">P2374</a>| views::cartesian_product | Sy Brand | T1 | | |<a href="http://wg21.link/P2374/github">github</a> |
-| <a href="http://wg21.link/P2164">P2164</a>| views::enumerate | Corentin Jabot | T1 | | |<a href="http://wg21.link/P2164/github">github</a> |
-| <a href="http://wg21.link/P2321">P2321</a>| zip | Tim Song | T1 | | |<a href="http://wg21.link/P2321/github">github</a> |
-| <a href="http://wg21.link/P2322">P2322</a>| ranges::fold | Barry Revzin | T1 | |2021-07-20 |<a href="http://wg21.link/P2322/github">github</a> |
-| <a href="http://wg21.link/P2387">P2387</a>| Pipe support for user-defined range adaptors | Barry Revzin | |2021-06-14 |2021-07-20 |<a href="http://wg21.link/P2387/github">github</a> |
-| <a href="http://wg21.link/P1664">P1664</a>| reconstructible_range - a concept for putting ranges back together | JeanHeyd Meneide, Hannes Hauswedell |  | | |<a href="http://wg21.link/P1664/github">github</a> |
+| Paper | Paper Name | Authors | Tier | Status| Issue |
+| -     |-           | -       |-     |-      |-      |
+| <a href="http://wg21.link/P1206r3">P1206R3</a>| ranges::to: A function to convert any range to a container | Corentin Jabot, Eric Niebler, Casey Carter| T1 | SG9: 06-14 <br/>LEWG: 07-20 |<a href="http://wg21.link/P1206/github">github</a> |
+| <a href="http://wg21.link/P2286r1">P2286R1</a>| Formatting Ranges | Barry Revzin | T1 | LEWG: 07-20 |<a href="http://wg21.link/P2286/github">github</a> |
+| <a href="http://wg21.link/P2374r1">P2374R1</a>| views::cartesian_product | Sy Brand | T1 | |<a href="http://wg21.link/P2374/github">github</a> |
+| <a href="http://wg21.link/P2164r4">P2164R4</a>| views::enumerate | Corentin Jabot | T1 | |<a href="http://wg21.link/P2164/github">github</a> |
+| <a href="http://wg21.link/P2321r1">P2321R1</a>| zip | Tim Song | T1 | |<a href="http://wg21.link/P2321/github">github</a> |
+| <a href="http://wg21.link/P2322r2">P2322R2</a>| ranges::fold | Barry Revzin | T1 |LEWG: 07-20 |<a href="http://wg21.link/P2322/github">github</a> |
+| <a href="https://brevzin.github.io/cpp_proposals/2387_ranges_pipes/d2387r0.html">D2387R0</a>| Pipe support for user-defined range adaptors | Barry Revzin | | SG9: 06-14 <br/> LEWG: 07-20 |<a href="http://wg21.link/P2387/github">github</a> |
+| <a href="http://wg21.link/P1664r3">P1664R3</a>| reconstructible_range - a concept for putting ranges back together | JeanHeyd Meneide, Hannes Hauswedell |  ||<a href="http://wg21.link/P1664/github">github</a> |
+| <a href="http://wg21.link/p2168r3">P2168R3</a>| std::generator: Synchronous Coroutine Generator for Ranges | Lewis Baker, Corentin Jabot |  | Needs Revision |<a href="http://wg21.link/P2168/github">github</a> |
+| <a href="http://wg21.link/p2276r0">P2276R0</a>| Fix std::cbegin(), std::ranges::cbegin, and cbegin() for span (fix of wrong fix of lwg3320) | Nicolai Josuttis |  | Needs Revision |<a href="http://wg21.link/P2276/github">github</a> |
+| <a href="http://wg21.link/p2302r0">P2302R0</a>| Prefer std::ranges::contains over std::basic_string_view::contains | Christopher Di Bella |  | Needs Revision |<a href="http://wg21.link/P2302/github">github</a> |
+| <a href="http://wg21.link/p1255r6">P1255R6</a>| A view of 0 or 1 elements: view::maybe | Steve Downey |  | Needs Revision |<a href="http://wg21.link/P1255/github">github</a> |
 
 
 ### Voted In
