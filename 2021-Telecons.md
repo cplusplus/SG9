@@ -10,6 +10,13 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 | -      |-         | -    |-       |-       |-            |
 | <a href="https://isocpp.org/files/papers/D1206R4.pdf">D1206R4</a>: ranges::to: A function to convert any range to a container <br/><br/><a href="https://wg21.link/P2286">P2286R1</a>: Formatting Ranges <br/><br/> <a href="https://wg21.link/LWG3564">LWG3564</a>: transform_view::iterator<true>::value_type and iterator_category should use const F& | Corentin Jabot <br/><br/> Barry Revzin <br/><br/> Tim Song| T1<br/><br/>T1<br/><br/>- | Scheduled for LEWG <br/>Scheduled for LEWG<br/>Forwarded by LWG| <a href="http://wg21.link/P1206/github">github</a><br/><br/> <a href="http://wg21.link/P2286/github">github</a><br/><br/> <a href="http://wg21.link/LWG3564/github">github</a> | 07-12<br/> 09:30 Pacific|
 
+### Unscheduled
+
+| Papers | Champion | Tier | Status | Issues | Date & Time |
+| -      |-         | -    |-       |-       |-            |
+|  <a href="https://wg21.link/P2164">P2164</a>: views::enumerate <br/> | 	Corentin Jabot | - | | | |
+|  <a href="https://wg21.link/P2387">P2387R0</a>: Pipe support for user-defined range adaptors <br/> | Barry Revzin | T1 | | | |
+|  <a href="https://wg21.link/P1664">P1664R4</a>: reconstructible_range - a concept for putting ranges back together <br/> | JeanHeyd Meneide | - | | | |
 
 ### Past
 
