@@ -17,15 +17,15 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 
 
 <tr>
-<td><a href="https://wg21.link/P2164">P2164R5</a>: views::enumerate
+<td><a href="https://wg21.link/P2387">P2387R0</a>: Pipe support for user-defined range adaptors
 <br/><br/><a href="https://wg21.link/P1664">P1664R4</a>: reconstructible_range - a concept for putting ranges back together
-<td>Corentin Jabot
+<td>Barry Revzin
 <br/><br/>JeanHeyd Meneide
 <td>T1
 <br/><br/>-
 <td>New Revision Published
 <br/><br/>Forwarded by LEWG
-<td><a href="http://wg21.link/p2164/github">github</a>
+<td><a href="http://wg21.link/p2387/github">github</a>
 <br/><br/><a href="http://wg21.link/p1664/github">github</a>
 <td>08-09<br/> 09:30 Pacific
 
@@ -43,11 +43,11 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://wg21.link/P2387">P2387R0</a>: Pipe support for user-defined range adaptors
-<td>Barry Revzin
+<td><a href="https://wg21.link/P2164">P2164R5</a>: views::enumerate
+<td>Corentin Jabot
 <td>T1
 <td>
-<td><a href="http://wg21.link/p2387/github">github</a>
+<td><a href="http://wg21.link/p2164/github">github</a>
 <td>
   
 </table>
