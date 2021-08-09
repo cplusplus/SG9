@@ -18,7 +18,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 
 <tr>
 <td><a href="https://wg21.link/P2387">P2387R0</a>: Pipe support for user-defined range adaptors
-<br/><br/><a href="https://wg21.link/P1664">P1664R4</a>: reconstructible_range - a concept for putting ranges back together
+<br/><br/><a href="https://isocpp.org/files/papers/P1664R5.html">P1664R5</a>: reconstructible_range - a concept for putting ranges back together
 <br/><br/><a href="https://wg21.link/P2415">P2415R0</a>: What is a view?
 <br/><br/><a href="https://wg21.link/P2408">P2408R0</a>: Ranges views as inputs to non-Ranges algorithms
 <td>Barry Revzin
