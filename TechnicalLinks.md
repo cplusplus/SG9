@@ -8,6 +8,6 @@
 | MSVC's STL |  https://github.com/microsoft/STL/wiki   | https://github.com/microsoft/STL/blob/3cafa97eecdbfde41ea5c09126f877a7eb97f9e9/stl/inc/ranges |
 | Boost.Range     | https://www.boost.org/doc/libs/1_75_0/libs/range/doc/html/index.html | | |
 | RangesNext      | https://github.com/cor3ntin/rangesnext/blob/master/README.md  | https://github.com/cor3ntin/rangesnext/ | |
-| NanoRange       | https://github.com/cjdb/NanoRange/README.md | https://github.com/cjdb/NanoRange | |
+| NanoRange       | https://github.com/tcbrindle/NanoRange/blob/master/README.md | https://github.com/tcbrindle/NanoRange | |
 | Ranges TS | |http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2017/n4685.pdf | | |
 
