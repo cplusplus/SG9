@@ -17,27 +17,20 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 
 
 <tr>
-<td><a href="https://wg21.link/P2387">P2387R0</a>: Pipe support for user-defined range adaptors
-<br/><br/><a href="https://isocpp.org/files/papers/P1664R5.html">P1664R5</a>: reconstructible_range - a concept for putting ranges back together
-<br/><br/><a href="https://wg21.link/P2415">P2415R0</a>: What is a view?
-<br/><br/><a href="https://wg21.link/P2408">P2408R0</a>: Ranges views as inputs to non-Ranges algorithms
-<td>Barry Revzin
-<br/><br/>JeanHeyd Meneide
-<br/><br/>Barry Revzin, Tim Song
-<br/><br/>David Olsen
-<td>T1
+<td><a href="https://wg21.link/P2408">P2408R0</a>: Ranges views as inputs to non-Ranges algorithms
+<br/><br/><a href="https://cplusplus.github.io/LWG/issue3534">LWG3534</a>: ranges::set_intersection and ranges::set_difference algorithm requirements are too strict
+<br/><br/><a href="https://wg21.link/LWG3564">LWG3564</a>: transform_view::iterator<true>::value_type and iterator_category should use const F&
+<td>David Olsen
 <br/><br/>-
-<br/><br/><br/>-
-<br/><br/><br/>-
-<td>Scheduled for LEWG
-<br/><br/>Forwarded by LEWG
-<br/><br/>Scheduled for LEWG
-<br/><br/>Related topic
-<td><a href="http://wg21.link/p2387/github">github</a>
-<br/><br/><a href="http://wg21.link/p1664/github">github</a>
-<br/><br/><a href="http://wg21.link/p2415/github">github</a>
-<br/><br/><a href="http://wg21.link/p2408/github">github</a>
-<td>08-09<br/> 09:30 Pacific
+<br/><br/>Tim Song
+<td>-
+<br/><br/>-
+<br/><br/>-
+<td>
+<td><a href="http://wg21.link/p2408/github">github</a>
+<br/><br/><a href="http://wg21.link/LWG3534/github">github</a>
+<br/><br/><br/><a href="http://wg21.link/LWG3564/github">github</a>
+<td>09-13<br/> 09:30 Pacific
 
 </table>
   
@@ -106,4 +99,28 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <br/><br/><br/><a href="http://wg21.link/LWG3564/github">github</a>
 <td>07-12<br/> 09:30 Pacific
 
+  
+<tr>
+<td><a href="https://wg21.link/P2387">P2387R0</a>: Pipe support for user-defined range adaptors
+<br/><br/><a href="https://isocpp.org/files/papers/P1664R5.html">P1664R5</a>: reconstructible_range - a concept for putting ranges back together
+<br/><br/><a href="https://wg21.link/P2415">P2415R0</a>: What is a view?
+<br/><br/><a href="https://wg21.link/P2408">P2408R0</a>: Ranges views as inputs to non-Ranges algorithms
+<td>Barry Revzin
+<br/><br/>JeanHeyd Meneide
+<br/><br/>Barry Revzin, Tim Song
+<br/><br/>David Olsen
+<td>T1
+<br/><br/>-
+<br/><br/><br/>-
+<br/><br/><br/>-
+<td>Scheduled for LEWG
+<br/><br/>Forwarded by LEWG
+<br/><br/>Scheduled for LEWG
+<br/><br/>Related topic
+<td><a href="http://wg21.link/p2387/github">github</a>
+<br/><br/><a href="http://wg21.link/p1664/github">github</a>
+<br/><br/><a href="http://wg21.link/p2415/github">github</a>
+<br/><br/><a href="http://wg21.link/p2408/github">github</a>
+<td>08-09<br/> 09:30 Pacific
+  
 </table>
