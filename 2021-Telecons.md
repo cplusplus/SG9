@@ -28,7 +28,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <br/><br/>T1
 <td>
 <td><a href="http://wg21.link/p2408/github">github</a>
-<br/><br/><br/><a href="http://wg21.link/LWG3564/github">github</a>
+<br/><br/><br/><a href="https://github.com/cplusplus/papers/issues/1052">github</a>
 <br/><br/><a href="http://wg21.link/p2164/github">github</a>
 <td>09-13<br/> 09:30 Pacific
 
