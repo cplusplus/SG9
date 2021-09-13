@@ -123,7 +123,7 @@ Deffered by LEWG
 <tr>
 <td><a href="https://wg21.link/P2408">P2408R0</a>: Ranges views as inputs to non-Ranges algorithms
 <br/><br/><a href="https://wg21.link/LWG3564">LWG3564</a>: transform_view::iterator<true>::value_type and iterator_category should use const F&
-<br/><br/><a href="https://wg21.link/P2164">P2164R5</a>: views::enumerate
+<br/><br/><a href="https://wg21.link/P2165">P2165R2</a>: Compatibility between tuple, pair and tuple-like objects
 <td>David Olsen
 <br/><br/>Tim Song
 <br/><br/>Corentin Jabot
@@ -133,7 +133,7 @@ Deffered by LEWG
 <td>
 <td><a href="http://wg21.link/p2408/github">github</a>
 <br/><br/><br/><a href="https://github.com/cplusplus/papers/issues/1052">github</a>
-<br/><br/><a href="http://wg21.link/p2164/github">github</a>
+<br/><br/><a href="http://wg21.link/p2165/github">github</a>
 <td>09-13<br/> 09:30 Pacific
   
 </table>
