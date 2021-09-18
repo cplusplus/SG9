@@ -17,20 +17,27 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 
 
 <tr>
-<td><a href="">TBD</a>: TBD
-<td>TBD
+<td><a href="https://wg21.link/P2408">P2408R0</a>: Ranges views as inputs to non-Ranges algorithms
+<br/><br/>TBD
+<td>David Olsen
+<br/><br/>TBD
 <td>-
+<br/><br/>TBD
 <td>
-<td><a href="http://wg21.link/pxxxx/github">github</a>
+<td><a href="http://wg21.link/p2408/github">github</a>
+<br/><br/>TBD
 <td>10-11<br/> 09:30 Pacific
-  
+
 <tr>
 <td><a href="http://wg21.link/P1899R0">P1899R0: srtide_view</a>
 <br/><br/>TBD
 <td>Christopher Di Bella
+<br/><br/>TBD
 <td>T1
+<br/><br/>TBD
 <td>
 <td><a href="http://wg21.link/P1899R0/github">github</a>
+<br/><br/>TBD
 <td>11-08<br/> 09:30 Pacific
 
 </table>
