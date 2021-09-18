@@ -23,6 +23,15 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <td>
 <td><a href="http://wg21.link/pxxxx/github">github</a>
 <td>10-11<br/> 09:30 Pacific
+  
+<tr>
+<td><a href="http://wg21.link/P1899R0">P1899R0: srtide_view</a>
+<br/><br/>TBD
+<td>Christopher Di Bella
+<td>T1
+<td>
+<td><a href="http://wg21.link/P1899R0/github">github</a>
+<td>11-08<br/> 09:30 Pacific
 
 </table>
   
