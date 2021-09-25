@@ -17,7 +17,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 
 
 <tr>
-<td><a href="https://wg21.link/P2408">P2408R0</a>: Ranges views as inputs to non-Ranges algorithms
+<td><a href="https://isocpp.org/files/papers/P2408R2.html">P2408R2</a>: Ranges views as inputs to non-Ranges algorithms
 <br/><br/>TBD
 <td>David Olsen
 <br/><br/>TBD
