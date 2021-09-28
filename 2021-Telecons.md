@@ -18,13 +18,19 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2408R2.html">P2408R2</a>: Ranges views as inputs to non-Ranges algorithms
+<br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2374R1</a>: views::cartesian_product
 <br/><br/>TBD
 <td>David Olsen
+<br/><br/>Sy Brand
 <br/><br/>TBD
 <td>-
+<br/><br/>T1
 <br/><br/>TBD
-<td>
+<td>-
+<br/><br/>D2 will be uploaded
+<br/><br/>-
 <td><a href="http://wg21.link/p2408/github">github</a>
+<br/><br/><a href="http://wg21.link/p2374/github">github</a>
 <br/><br/>TBD
 <td>10-11<br/> 09:30 Pacific
 
