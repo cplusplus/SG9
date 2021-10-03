@@ -19,19 +19,29 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2408R2.html">P2408R2</a>: Ranges views as inputs to non-Ranges algorithms
 <br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2374R1</a>: views::cartesian_product
-<br/><br/>TBD
+<br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2440R0</a>: ranges::iota, ranges::shift_left, and ranges::shift_right
+<br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2442R0</a>: Windowing range adaptors: views::chunk and views::slide
+<br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2443R0</a>: views::chunk_by
 <td>David Olsen
 <br/><br/>Sy Brand
-<br/><br/>TBD
+<br/><br/>Tim Song
+<br/><br/>Tim Song
+<br/><br/>Tim Song
 <td>-
 <br/><br/>T1
-<br/><br/>TBD
-<td>-
-<br/><br/>D2 will be uploaded
-<br/><br/>-
+<br/><br/>T1
+<br/><br/>T1
+<br/><br/>T1
+<td>Feedback from SG9 implemented
+<br/><br/>D2 will be send in ML
+<br/><br/> Focused telecon (Tentetive)
+<br/><br/> Focused telecon (Tentetive)
+<br/><br/> Focused telecon (Tentetive)
 <td><a href="http://wg21.link/p2408/github">github</a>
 <br/><br/><a href="http://wg21.link/p2374/github">github</a>
-<br/><br/>TBD
+<br/><br/><a href="http://wg21.link/p2440/github">github</a>
+<br/><br/><a href="http://wg21.link/p2442/github">github</a>
+<br/><br/><a href="http://wg21.link/p2443/github">github</a>
 <td>10-11<br/> 09:30 Pacific
 
 <tr>
