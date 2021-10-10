@@ -18,10 +18,10 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2408R2.html">P2408R2</a>: Ranges views as inputs to non-Ranges algorithms
-<br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2374R1</a>: views::cartesian_product
-<br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2440R0</a>: ranges::iota, ranges::shift_left, and ranges::shift_right
-<br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2442R0</a>: Windowing range adaptors: views::chunk and views::slide
-<br/><br/><a href="https://isocpp.org/files/papers/p2374r1.html">P2443R0</a>: views::chunk_by
+<br/><br/><a href="https://wiki.edg.com/pub/Wg21telecons2021/SG9/D2374R2.html">D2374R2</a>: views::cartesian_product
+<br/><br/><a href="http://wg21.link/p2440">P2440R0</a>: ranges::iota, ranges::shift_left, and ranges::shift_right
+<br/><br/><a href="http://wg21.link/p2442">P2442R0</a>: Windowing range adaptors: views::chunk and views::slide
+<br/><br/><a href="http://wg21.link/p2443">P2443R0</a>: views::chunk_by
 <td>David Olsen
 <br/><br/>Sy Brand
 <br/><br/>Tim Song
@@ -33,7 +33,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <br/><br/>T1
 <br/><br/>T1
 <td>Feedback from SG9 implemented
-<br/><br/>D2 will be send in ML
+<br/><br/> Focused telecon (Tentetive)
 <br/><br/> Focused telecon (Tentetive)
 <br/><br/> Focused telecon (Tentetive)
 <br/><br/> Focused telecon (Tentetive)
