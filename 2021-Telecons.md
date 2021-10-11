@@ -23,7 +23,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <br/><br/><a href="http://wg21.link/p2442">P2442R0</a>: Windowing range adaptors: views::chunk and views::slide
 <br/><br/><a href="http://wg21.link/p2443">P2443R0</a>: views::chunk_by
 <td>David Olsen
-<br/><br/>Sy Brand
+<br/><br/>Michal Dominiak
 <br/><br/>Tim Song
 <br/><br/>Tim Song
 <br/><br/>Tim Song
