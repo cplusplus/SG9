@@ -15,35 +15,6 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <th>Issues
 <th>Date & Time
 
-
-<tr>
-<td><a href="https://isocpp.org/files/papers/P2408R2.html">P2408R2</a>: Ranges views as inputs to non-Ranges algorithms
-<br/><br/><a href="https://wiki.edg.com/pub/Wg21telecons2021/SG9/D2374R2.html">D2374R2</a>: views::cartesian_product
-<br/><br/><a href="http://wg21.link/p2440">P2440R0</a>: ranges::iota, ranges::shift_left, and ranges::shift_right
-<br/><br/><a href="http://wg21.link/p2442">P2442R0</a>: Windowing range adaptors: views::chunk and views::slide
-<br/><br/><a href="http://wg21.link/p2443">P2443R0</a>: views::chunk_by
-<td>David Olsen
-<br/><br/>Michal Dominiak
-<br/><br/>Tim Song
-<br/><br/>Tim Song
-<br/><br/>Tim Song
-<td>-
-<br/><br/>T1
-<br/><br/>T1
-<br/><br/>T1
-<br/><br/>T1
-<td>Feedback from SG9 implemented
-<br/><br/> Focused telecon (Tentetive)
-<br/><br/> Focused telecon (Tentetive)
-<br/><br/> Focused telecon (Tentetive)
-<br/><br/> Focused telecon (Tentetive)
-<td><a href="http://wg21.link/p2408/github">github</a>
-<br/><br/><a href="http://wg21.link/p2374/github">github</a>
-<br/><br/><a href="http://wg21.link/p2440/github">github</a>
-<br/><br/><a href="http://wg21.link/p2442/github">github</a>
-<br/><br/><a href="http://wg21.link/p2443/github">github</a>
-<td>10-11<br/> 09:30 Pacific
-
 <tr>
 <td><a href="http://wg21.link/P1899R0">P1899R0: srtide_view</a>
 <br/><br/>TBD
@@ -167,5 +138,33 @@ Deffered by LEWG
 <br/><br/><br/><a href="https://github.com/cplusplus/papers/issues/1052">github</a>
 <br/><br/><a href="http://wg21.link/p2165/github">github</a>
 <td>09-13<br/> 09:30 Pacific
-  
+
+<tr>
+<td><a href="https://isocpp.org/files/papers/P2408R2.html">P2408R2</a>: Ranges views as inputs to non-Ranges algorithms
+<br/><br/><a href="https://wiki.edg.com/pub/Wg21telecons2021/SG9/D2374R2.html">D2374R2</a>: views::cartesian_product
+<br/><br/><a href="http://wg21.link/p2440">P2440R0</a>: ranges::iota, ranges::shift_left, and ranges::shift_right
+<br/><br/><a href="http://wg21.link/p2442">P2442R0</a>: Windowing range adaptors: views::chunk and views::slide
+<br/><br/><a href="http://wg21.link/p2443">P2443R0</a>: views::chunk_by
+<td>David Olsen
+<br/><br/>Michal Dominiak
+<br/><br/>Tim Song
+<br/><br/>Tim Song
+<br/><br/>Tim Song
+<td>-
+<br/><br/>T1
+<br/><br/>T1
+<br/><br/>T1
+<br/><br/>T1
+<td>Feedback from SG9 implemented
+<br/><br/> Focused telecon (Tentetive)
+<br/><br/> Focused telecon (Tentetive)
+<br/><br/> Focused telecon (Tentetive)
+<br/><br/> Focused telecon (Tentetive)
+<td><a href="http://wg21.link/p2408/github">github</a>
+<br/><br/><a href="http://wg21.link/p2374/github">github</a>
+<br/><br/><a href="http://wg21.link/p2440/github">github</a>
+<br/><br/><a href="http://wg21.link/p2442/github">github</a>
+<br/><br/><a href="http://wg21.link/p2443/github">github</a>
+<td>10-11<br/> 09:30 Pacific
+
 </table>
