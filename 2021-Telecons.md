@@ -17,14 +17,18 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 
 <tr>
 <td><a href="http://wg21.link/P1899R0">P1899R0: srtide_view</a>
-<br/><br/>TBD
+<br/><a href="http://wg21.link/P2302R0">P2302R0: Prefer std::ranges::contains over std::basic_string_view::contains</a>
+<br/>TBD
 <td>Christopher Di Bella
-<br/><br/>TBD
+<br/>Christopher Di Bella
+<br/>TBD
 <td>T1
-<br/><br/>TBD
+<br/>-
+<br/>TBD
 <td>
 <td><a href="http://wg21.link/P1899R0/github">github</a>
-<br/><br/>TBD
+<br/><a href="http://wg21.link/P2302R0/github">github</a>
+<br/>TBD
 <td>11-08<br/> 09:30 Pacific
 
 </table>
