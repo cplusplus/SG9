@@ -16,9 +16,9 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="http://wg21.link/P1899R0">P1899R0: srtide_view</a>
-<br/><a href="http://wg21.link/P2302R0">P2302R0: Prefer std::ranges::contains over std::basic_string_view::contains</a>
-<br/><a href="https://isocpp.org/files/papers/P2486R0">P2486R0: Structured naming for function object and CPO values</a>
+<td><a href="http://wg21.link/P1899R0">P1899R0</a>: srtide_view
+<br/><a href="http://wg21.link/P2302R0">P2302R0</a>: Prefer std::ranges::contains over std::basic_string_view::contains
+<br/><a href="https://isocpp.org/files/papers/P2486R0">P2486R0</a>: Structured naming for function object and CPO values
 <td>Christopher Di Bella
 <br/>Christopher Di Bella
 <br/>Kirk Shoop
