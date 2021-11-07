@@ -19,16 +19,20 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <td><a href="https://isocpp.org/files/papers/P1899R1.html">P1899R1</a>: srtide_view
 <br/><a href="http://wg21.link/P2302R0">P2302R0</a>: Prefer std::ranges::contains over std::basic_string_view::contains
 <br/><a href="https://isocpp.org/files/papers/D2486R1">D2486R1</a>: Structured naming for function object and CPO values
+<br/><a href="https://isocpp.org/files/papers/D2408R3.html">D2408R3</a>: Ranges views as inputs to non-Ranges algorithms
 <td>Christopher Di Bella
 <br/>Christopher Di Bella
 <br/>Kirk Shoop
+<br/>David Olsen
 <td>T1
 <br/>-
 <br/>-
+<br/>-
 <td>
-<td><a href="http://wg21.link/P1899R0/github">github</a>
-<br/><a href="http://wg21.link/P2302R0/github">github</a>
-<br/><a href="http://wg21.link/P2486R0/github">github</a>
+<td><a href="http://wg21.link/P1899/github">github</a>
+<br/><a href="http://wg21.link/P2302/github">github</a>
+<br/><a href="http://wg21.link/P2486/github">github</a>
+<br/><a href="http://wg21.link/P2408/github">github</a>
 <td>11-08<br/> 09:30 Pacific
 
 </table>
