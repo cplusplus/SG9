@@ -15,29 +15,14 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <th>Issues
 <th>Date & Time
 
+  
 <tr>
-<td><a href="https://wiki.edg.com/pub/Wg21telecons2021/SG9/P2374R2.html">P2374R2</a>: views::cartesian_product
-<br/><a href="https://isocpp.org/files/papers/P1899R1.html">P1899R1</a>: srtide_view
-<br/><a href="https://isocpp.org/files/papers/P2302R1.html">P2302R1</a>: std::ranges::contains
-<br/><a href="https://isocpp.org/files/papers/D2486R1">D2486R1</a>: Structured naming for function object and CPO values
-<br/><a href="https://isocpp.org/files/papers/D2408R3.html">D2408R3</a>: Ranges views as inputs to non-Ranges algorithms
-<td>Michal Dominiak
-<br/>Christopher Di Bella
-<br/>Christopher Di Bella
-<br/>Kirk Shoop
-<br/>David Olsen
+<td><a href="https://isocpp.org/files/papers/P1899R1.html">P1899R1</a>: srtide_view
+<td>Christopher Di Bella
 <td>T1
-<br/>T1
-<br/>-
-<br/>-
-<br/>-
 <td>
-<td><a href="http://wg21.link/P2374/github">github</a>
-<br/><a href="http://wg21.link/P1899/github">github</a>
-<br/><a href="http://wg21.link/P2302/github">github</a>
-<br/><a href="http://wg21.link/P2486/github">github</a>
-<br/><a href="http://wg21.link/P2408/github">github</a>
-<td>11-08<br/> 09:30 Pacific
+<td><a href="http://wg21.link/P1899/github">github</a>
+<td>12-13<br/> 09:30 Pacific
 
 </table>
   
@@ -178,5 +163,30 @@ Deffered by LEWG
 <br/><br/><a href="http://wg21.link/p2442/github">github</a>
 <br/><br/><a href="http://wg21.link/p2443/github">github</a>
 <td>10-11<br/> 09:30 Pacific
+
+
+<tr>
+<td><a href="https://wiki.edg.com/pub/Wg21telecons2021/SG9/P2374R2.html">P2374R2</a>: views::cartesian_product
+<br/><a href="https://isocpp.org/files/papers/P1899R1.html">P1899R1</a>: srtide_view
+<br/><a href="https://isocpp.org/files/papers/P2302R1.html">P2302R1</a>: std::ranges::contains
+<br/><a href="https://isocpp.org/files/papers/D2486R1">D2486R1</a>: Structured naming for function object and CPO values
+<br/><a href="https://isocpp.org/files/papers/D2408R3.html">D2408R3</a>: Ranges views as inputs to non-Ranges algorithms
+<td>Michal Dominiak
+<br/>Christopher Di Bella
+<br/>Christopher Di Bella
+<br/>Kirk Shoop
+<br/>David Olsen
+<td>T1
+<br/>T1
+<br/>-
+<br/>-
+<br/>-
+<td>
+<td><a href="http://wg21.link/P2374/github">github</a>
+<br/><a href="http://wg21.link/P1899/github">github</a>
+<br/><a href="http://wg21.link/P2302/github">github</a>
+<br/><a href="http://wg21.link/P2486/github">github</a>
+<br/><a href="http://wg21.link/P2408/github">github</a>
+<td>11-08<br/> 09:30 Pacific
 
 </table>
