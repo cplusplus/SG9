@@ -18,7 +18,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <tr>
 <td><a href="https://wiki.edg.com/pub/Wg21telecons2021/SG9/P2374R2.html">P2374R2</a>: views::cartesian_product
 <br/><a href="https://isocpp.org/files/papers/P1899R1.html">P1899R1</a>: srtide_view
-<br/><a href="http://wg21.link/P2302R0">P2302R0</a>: Prefer std::ranges::contains over std::basic_string_view::contains
+<br/><a href="https://isocpp.org/files/papers/P2302R1.html">P2302R1</a>: std::ranges::contains
 <br/><a href="https://isocpp.org/files/papers/D2486R1">D2486R1</a>: Structured naming for function object and CPO values
 <br/><a href="https://isocpp.org/files/papers/D2408R3.html">D2408R3</a>: Ranges views as inputs to non-Ranges algorithms
 <td>Michal Dominiak
