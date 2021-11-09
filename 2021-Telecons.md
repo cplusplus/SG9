@@ -185,7 +185,7 @@ Deffered by LEWG
 <td><a href="http://wg21.link/P2374/github">github</a>
 <br/><a href="http://wg21.link/P1899/github">github</a>
 <br/><a href="http://wg21.link/P2302/github">github</a>
-<br/><a href="http://wg21.link/P2486/github">github</a>
+<br/><a href="https://wiki.edg.com/bin/view/Wg21telecons2021/P2486">Wiki</a>
 <br/><a href="http://wg21.link/P2408/github">github</a>
 <td>11-08<br/> 09:30 Pacific
 
