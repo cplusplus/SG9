@@ -22,7 +22,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <td>T1
 <td>
 <td><a href="http://wg21.link/P1899/github">github</a>
-<td>12-06<br/> 09:30 Pacific
+<td>12-20<br/> 09:30 Pacific
 
 </table>
   
