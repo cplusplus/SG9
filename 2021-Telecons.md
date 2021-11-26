@@ -18,10 +18,16 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
   
 <tr>
 <td><a href="https://isocpp.org/files/papers/P1899R1.html">P1899R1</a>: srtide_view
+<br/><a href="https://wg21.link/p2375r0">P2375R0</a>: Generalisation of nth_element to a range of nths
+<br/><a href="https://wg21.link/p2483r0">P2483R0</a>: Support Non-copyable Types for single_view
 <td>Christopher Di Bella
+<br/>Johan Lundberg
+<br/>Hui Xie
 <td>T1
 <td>
 <td><a href="http://wg21.link/P1899/github">github</a>
+<br/><a href="http://wg21.link/P2375/github">github</a>
+<br/><a href="http://wg21.link/P2483/github">github</a>
 <td>12-20<br/> 09:30 Pacific
 
 </table>
