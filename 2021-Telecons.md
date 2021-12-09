@@ -179,10 +179,10 @@ Deffered by LEWG
 <br/>T1
 <br/>T1
 <td>Feedback from SG9 implemented
-<br/>Focused telecon (Tentetive)
-<br/>Focused telecon (Tentetive)
-<br/>Focused telecon (Tentetive)
-<br/>Focused telecon (Tentetive)
+<br/>Focused telecon
+<br/>Focused telecon
+<br/>Focused telecon
+<br/>Focused telecon
 <td><a href="http://wg21.link/p2408/github">github</a>
 <br/><a href="http://wg21.link/p2374/github">github</a>
 <br/><a href="http://wg21.link/p2440/github">github</a>
