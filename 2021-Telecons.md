@@ -41,10 +41,14 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
   
 <tr>
 <td><a href="https://wg21.link/p2483r0">PXXXX</a>: views::repeat
+<br/><a href="https://wg21.link/p2165">P2165R2</a>: Compatibility between tuple and tuple-like objects 
 <td>Michal Dominiak
+<br/>Corentin Jabot
 <td>T1
+<br/>-
 <td>
 <td><a href="http://wg21.link/PXXXX/github">github</a>
+<br/><a href="http://wg21.link/P2165/github">github</a>
 <td>01-03<br/> 09:30 Pacific
 
 </table>
