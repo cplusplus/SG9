@@ -11,7 +11,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <th>Papers
 <th>Champion
 <th>Tier
-<th>Status 
+<th>Comments 
 <th>Issues
 <th>Date & Time
 
@@ -32,7 +32,11 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <br/>-
 <br/>-
 <br/>-
-<td>
+<td>Scheduled for LEWG
+<br/>-
+<br/>-
+<br/><a href="https://thephd.dev/ranges-split-final-frontier-reconstructible">Blog Post P1664</a>
+<br/>-
 <td><a href="http://wg21.link/P1899/github">github</a>
 <br/><a href="http://wg21.link/P2483/github">github</a>
 <br/><a href="http://wg21.link/P2494/github">github</a>
@@ -61,7 +65,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <th>Papers
 <th>Champion
 <th>Tier
-<th>Status 
+<th>Comments 
 <th>Issues
 <th>Date & Time
 
@@ -88,7 +92,7 @@ Deffered by LEWG
 <th>Papers
 <th>Champion
 <th>Tier
-<th>Status 
+<th>Comments 
 <th>Issues
 <th>Date & Time
 
