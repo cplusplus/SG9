@@ -19,17 +19,21 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <tr>
   
 <tr>
-<td><a href="https://isocpp.org/files/papers/P2474R0.html">P2474</a>: views::repeat
+<td><a href="https://wg21.link/p2375r0">P2375R0</a>: Generalisation of nth_element to a range of nths (If needed)
+<br/><a href="https://isocpp.org/files/papers/P2474R0.html">P2474</a>: views::repeat
 <br/><a href="https://wg21.link/p2286">P2286R4</a>: Formatting Ranges (tentative)
 <br/><a href="https://wg21.link/p2165">P2165R2</a>: Compatibility between tuple and tuple-like objects
-<td>Michal Dominiak
+<td>Johan Lundberg
+<br/>Michal Dominiak
 <br/>Barry Ravzin
 <br/>Corentin Jabot
-<td>T2
+<td>-
+<br/>T2
 <br/>-
 <br/>T1
 <td>
-<td><a href="http://wg21.link/P2474/github">github</a>
+<td><a href="http://wg21.link/P2375/github">github</a>
+<br/><a href="http://wg21.link/P2474/github">github</a>
 <br/><a href="http://wg21.link/P2286/github">github</a>
 <br/><a href="http://wg21.link/P2165/github">github</a>
 <td>01-03<br/> 09:30 Pacific
