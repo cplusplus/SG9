@@ -46,7 +46,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
   
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2474R0.html">P2474</a>: views::repeat
-<br/><a href="https://wg21.link/p2286">P2286R4</a>: Formatting Ranges
+<br/><a href="https://wg21.link/p2286">P2286R4</a>: Formatting Ranges (tentative)
 <br/><a href="https://wg21.link/p2165">P2165R2</a>: Compatibility between tuple and tuple-like objects
 <td>Michal Dominiak
 <br/>Barry Ravzin
