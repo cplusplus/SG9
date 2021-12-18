@@ -20,7 +20,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
   
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2474R0.html">P2474R0</a>: views::repeat
-<br/><a href="https://wg21.link/p2286">P2286R4</a>: Formatting Ranges (tentative)
+<br/><a href=" https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
 <br/><a href="https://wg21.link/p2165">P2165R2</a>: Compatibility between tuple and tuple-like objects
 <br/><a href="https://wg21.link/p2375r0">P2375R0</a>: Generalisation of nth_element to a range of nths (If needed)
 <td>Michal Dominiak
