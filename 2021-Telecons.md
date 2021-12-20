@@ -21,19 +21,19 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <br/><a href="https://wg21.link/p2483r0">P2483R0</a>: Support Non-copyable Types for single_view
 <br/><a href="https://isocpp.org/files/papers/P2494R0.html">P2494R0</a>: Relaxing range adaptors to allow for move only types
 <br/><a href="https://isocpp.org/files/papers/P1664R6.html">P1664R6</a>: reconstructible_range - a concept for putting ranges back together
-<br/><a href="https://isocpp.org/files/papers/P2474R0.html">P2474R0</a>: views::repeat
+<br/><a href="https://isocpp.org/files/papers/D2165R3.pdf">P2165R3</a>: Compatibility between tuple, pair and tuple-like objects
 <br/><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths (Time Permitting)
 <td>Tim Song
 <br/>Hui Xie
 <br/>Michal Dominiak
 <br/>JeanHeyd Meneide
-<br/>Michal Dominiak
+<br/>Corentin Jabot
 <br/>Johan Lundberg
 <td>T1
 <br/>-
 <br/>-
 <br/>-
-<br/>T2
+<br/>T1
 <br/>-
 <td>Scheduled for LEWG
 <br/>-
@@ -44,9 +44,9 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <td><a href="http://wg21.link/P1899/github">github</a>
 <br/><a href="http://wg21.link/P2483/github">github</a>
 <br/><a href="http://wg21.link/P2494/github">github</a>
-<br/><a href="http://wg21.link/P2375/github">github</a>
-<br/><a href="http://wg21.link/P2474/github">github</a>
 <br/><a href="http://wg21.link/P1664/github">github</a>
+<br/><a href="http://wg21.link/P2165/github">github</a>
+<br/><a href="http://wg21.link/P2375/github">github</a>
 <td>12-20<br/> 09:30 Pacific
   
 </table>
