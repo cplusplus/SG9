@@ -20,7 +20,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2021/SG9
 <td><a href="https://isocpp.org/files/papers/P1899R1.html">P1899R1</a>: srtide_view
 <br/><a href="https://wg21.link/p2483r0">P2483R0</a>: Support Non-copyable Types for single_view
 <br/><a href="https://isocpp.org/files/papers/P2494R0.html">P2494R0</a>: Relaxing range adaptors to allow for move only types
-<br/><a href="https://isocpp.org/files/papers/P1664R5.html">P1664R5</a>: reconstructible_range - a concept for putting ranges back together
+<br/><a href="https://isocpp.org/files/papers/P1664R6.html">P1664R6</a>: reconstructible_range - a concept for putting ranges back together
 <br/><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths (Time Permitting)
 <td>Tim Song
 <br/>Hui Xie
