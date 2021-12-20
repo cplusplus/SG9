@@ -22,7 +22,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <td><a href="https://isocpp.org/files/papers/P2474R0.html">P2474R0</a>: views::repeat
 <br/><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
 <br/><a href="https://wg21.link/P1255">P1255R7</a>: A view of 0 or 1 elements: views::maybe
-<br/><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths (If needed)
+<br/><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths (Time permitting)
 <td>Michal Dominiak
 <br/>Barry Ravzin
 <br/>Steve Downey
