@@ -24,7 +24,7 @@ For the compleate ranges papers' status and a list of open tasks please visit:
 
 SG9 Meets once a month on the **second Monday** of the month, between **16:30-18:00 UTC (9:30-11:00 Pacific)**
 
-### Next Telecon: Jun 14th, 16:30 UTC
+### Next Telecon: Jan 4th, 9:30 Pacific
 
 ## Info
 
