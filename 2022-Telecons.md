@@ -42,6 +42,14 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="http://wg21.link/P404/github">github</a>
 <td>01-03<br/> 09:30 Pacific
 
+<tr>
+<td><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
+<td>Barry Ravzin
+<td>T1
+<td>Tentative
+<td><a href="http://wg21.link/P2286/github">github</a>
+<td>01-10<br/> 09:30 Pacific
+
 </table>
   
 ### Unscheduled
