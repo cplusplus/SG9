@@ -22,20 +22,24 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <td><a href="https://isocpp.org/files/papers/P2474R0.html">P2474R0</a>: views::repeat
 <br/><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
 <br/><a href="https://wg21.link/P1255">P1255R7</a>: A view of 0 or 1 elements: views::maybe
-<br/><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths (Time permitting)
+<br/><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths
+<br/><a href="https://wg21.link/P2404">P2404R0</a>: Relaxing equality_comparable_with’s, totally_ordered_with’s, and three_way_comparable_with’s common reference requirements to support move-only types
 <td>Michal Dominiak
 <br/>Barry Ravzin
 <br/>Steve Downey
 <br/>Johan Lundberg
+<br/>Justin Bassett
 <td>T2
 <br/>T1
 <br/>T1
+<br/>-
 <br/>-
 <td>
 <td><a href="http://wg21.link/P2474/github">github</a>
 <br/><a href="http://wg21.link/P2286/github">github</a>
 <br/><a href="http://wg21.link/P2155/github">github</a>
 <br/><a href="http://wg21.link/P2375/github">github</a>
+<br/><a href="http://wg21.link/P404/github">github</a>
 <td>01-03<br/> 09:30 Pacific
 
 </table>
