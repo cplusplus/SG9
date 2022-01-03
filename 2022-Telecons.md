@@ -20,7 +20,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
   
 <tr>
 <td><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths
-<br/><a href="https://isocpp.org/files/papers/P2474R0.html">P2474R0</a>: views::repeat
+<br/><a href="https://isocpp.org/files/papers/D2474R1.html">D2474R1</a>: views::repeat
 <br/><a href="https://wg21.link/P2404r1">P2404R1</a>: Relaxing equality_comparable_with’s, totally_ordered_with’s, and three_way_comparable_with’s common reference requirements to support move-only types
 <br/><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
 
