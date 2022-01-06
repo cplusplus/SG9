@@ -15,41 +15,20 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Issues
 <th>Date & Time
 
-  
-<tr>
-  
-<tr>
-<td><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths
-<br/><a href="https://isocpp.org/files/papers/D2474R1.html">D2474R1</a>: views::repeat
-<br/><a href="https://wg21.link/P2404r1">P2404R1</a>: Relaxing equality_comparable_with’s, totally_ordered_with’s, and three_way_comparable_with’s common reference requirements to support move-only types
-<br/><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
-
-<td>Johan Lundberg
-<br/>Michal Dominiak
-<br/>Justin Bassett
-<br/>Barry Ravzin
-<br/>
-<td>-
-<br/>T2
-<br/>-
-<br/>T1
-<td>
-<td><a href="http://wg21.link/P2375/github">github</a>
-<br/><a href="http://wg21.link/P2474/github">github</a>
-<br/><a href="http://wg21.link/P2404/github">github</a>
-<br/><a href="http://wg21.link/P2286/github">github</a>
-<td>01-03<br/> 09:30 Pacific
-
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
-<br/><a href="https://isocpp.org/files/papers/P1664R6.html">P1664R6</a>: reconstructible_range - a concept for putting ranges back together (time permites)
+<br/><a href="https://isocpp.org/files/papers/P1664R6.html">P1664R6</a>: reconstructible_range - a concept for putting ranges back together
+<br/><a href="https://wg21.link/P2404r1">P2404R1</a>: Move-only types for equality_comparable_with, totally_ordered_with, and three_way_comparable_with (time permites)
 <td>Barry Ravzin
 <br/>JeanHeyd Meneide
+<br/>Justin Bassett
 <td>T1
 <br/>-
-<td>Tentative
+<br/>-
+<td>
 <td><a href="http://wg21.link/P2286/github">github</a>
 <br/><a href="http://wg21.link/P1664/github">github</a>
+<br/><a href="http://wg21.link/P2404/github">github</a>
 <td>01-10<br/> 09:30 Pacific
 
 </table>
@@ -96,4 +75,25 @@ Deffered by LEWG
 <th>Issues
 <th>Date & Time
 
+<tr>
+<td><a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>: Generalisation of nth_element to a range of nths
+<br/><a href="https://isocpp.org/files/papers/D2474R1.html">D2474R1</a>: views::repeat
+<br/><a href="https://wg21.link/P2404r1">P2404R1</a>: Move-only types for equality_comparable_with, totally_ordered_with, and three_way_comparable_with
+<br/><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
+<td>Johan Lundberg
+<br/>Michal Dominiak
+<br/>Justin Bassett
+<br/>Barry Ravzin
+<br/>
+<td>-
+<br/>T2
+<br/>-
+<br/>T1
+<td>
+<td><a href="http://wg21.link/P2375/github">github</a>
+<br/><a href="http://wg21.link/P2474/github">github</a>
+<br/><a href="http://wg21.link/P2404/github">github</a>
+<br/><a href="http://wg21.link/P2286/github">github</a>
+<td>01-03<br/> 09:30 Pacific
+  
 </table>
