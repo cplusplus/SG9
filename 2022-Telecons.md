@@ -18,7 +18,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
 <br/><a href="https://isocpp.org/files/papers/P1664R6.html">P1664R6</a>: reconstructible_range - a concept for putting ranges back together
-<br/><a href="https://wg21.link/P2404r1">P2404R1</a>: Move-only types for equality_comparable_with, totally_ordered_with, and three_way_comparable_with (time permites)
+<br/><a href="https://isocpp.org/files/papers/D2404R2.pdf">D2404R2</a>: Move-only types for equality_comparable_with, totally_ordered_with, and three_way_comparable_with
 <td>Barry Ravzin
 <br/>JeanHeyd Meneide
 <br/>Justin Bassett
