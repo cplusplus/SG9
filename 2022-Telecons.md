@@ -16,16 +16,12 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
-<br/><a href="https://isocpp.org/files/papers/D2404R2.pdf">D2404R2</a>: Move-only types for equality_comparable_with, totally_ordered_with, and three_way_comparable_with
-<td>Barry Ravzin
-<br/>Justin Bassett
-<td>T1
-<br/>-
-<td>
-<td><a href="http://wg21.link/P2286/github">github</a>
-<br/><a href="http://wg21.link/P2404/github">github</a>
-<td>01-10<br/> 09:30 Pacific
+<td><a href="https://wg21.link/PXXXXRX">PXXXXRX</a>: TBD
+<td>TBD
+<td>-
+<td>-
+<td><a href="http://wg21.link/pxxxx/github">github</a>
+<td>03-14<br/> 09:30 Pacific
 
 </table>
   
@@ -95,5 +91,17 @@ Deffered by LEWG
 <br/><a href="http://wg21.link/P2404/github">github</a>
 <br/><a href="http://wg21.link/P2286/github">github</a>
 <td>01-03<br/> 09:30 Pacific
-  
+
+<tr>
+<td><a href="https://isocpp.org/files/papers/P2286R4.html">P2286R4</a>: Formatting Ranges
+<br/><a href="https://isocpp.org/files/papers/D2404R2.pdf">D2404R2</a>: Move-only types for equality_comparable_with, totally_ordered_with, and three_way_comparable_with
+<td>Barry Ravzin
+<br/>Justin Bassett
+<td>T1
+<br/>-
+<td>
+<td><a href="http://wg21.link/P2286/github">github</a>
+<br/><a href="http://wg21.link/P2404/github">github</a>
+<td>01-10<br/> 09:30 Pacific
+
 </table>
