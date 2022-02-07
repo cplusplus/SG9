@@ -16,11 +16,15 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://wg21.link/PXXXXRX">PXXXXRX</a>: TBD
-<td>TBD
+<td><a href="https://quuxplusone.github.io/draft/d2538-adl-proof-std-projected.html">D2538R0</a>: ADL-proof std::projected
+<br/><a href="https://isocpp.org/files/papers/D2540R0.html">D2540R0</a>: Empty Product for certain Views
+<td>Arthur O'Dwyer
+<br/>Steve Downey
 <td>-
+<br/>-
 <td>-
-<td><a href="http://wg21.link/pxxxx/github">github</a>
+<td><a href="http://wg21.link/p2538/github">github</a>
+<br/><a href="http://wg21.link/p2540/github">github</a>
 <td>03-14<br/> 09:30 Pacific
 
 </table>
