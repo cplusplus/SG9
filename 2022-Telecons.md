@@ -24,7 +24,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>Hui Xie, S. Levent Yilmaz
 <td>-
 <br/>-
-<br/>-
+<br/>T2
 <td>C++23
 <br/>C++23
 <br/>C++26
