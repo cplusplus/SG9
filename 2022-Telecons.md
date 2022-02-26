@@ -17,19 +17,24 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 
 <tr>
 <td><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2538r0.html">P2538R0</a>: ADL-proof std::projected
-<br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2540r0.html">D2540R0</a>: Empty Product for certain Views
+<br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2540r0.html">P2540R0</a>: Empty Product for certain Views
+<br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2540r0.html">P1223R3</a>: find_last
 <br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r0.html">P2542R0</a>: views::concat
 <td>Arthur O'Dwyer
 <br/>Steve Downey
+<br/>Zach Laine
 <br/>Hui Xie, S. Levent Yilmaz
 <td>-
 <br/>-
 <br/>T2
+<br/>T2
 <td>C++23
 <br/>C++23
+<br/>C++23, from LWG
 <br/>C++26
 <td><a href="http://wg21.link/p2538/github">github</a>
 <br/><a href="http://wg21.link/p2540/github">github</a>
+<br/><a href="http://wg21.link/p1223/github">github</a>
 <br/><a href="http://wg21.link/p2542/github">github</a>
 <td>03-14<br/> 09:30 Pacific
 
