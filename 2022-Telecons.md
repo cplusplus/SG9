@@ -20,7 +20,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2538r0.html">P2538R0</a>: ADL-proof std::projected
 <br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2540r0.html">P2540R0</a>: Empty Product for certain Views
 <br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r0.html">P2542R0</a>: views::concat
-<td>Zach Laine
+<td>Jeff Garland
 <br/>Arthur O'Dwyer
 <br/>Steve Downey
 <br/>Hui Xie, S. Levent Yilmaz
