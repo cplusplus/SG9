@@ -13,7 +13,6 @@ For the compleate ranges papers' status and a list of open tasks please visit:
 
 | Paper | Paper Name | Tier | Status| Issue |
 | -     |-           | -    |-      |-      |
-| <a href="http://wg21.link/P2286r1">P2286R1</a>| Formatting Ranges | Barry Revzin | T1 | SG9 |<a href="http://wg21.link/P2286/github">github</a> |
 | <a href="http://wg21.link/p1255r6">P1255R6</a>| A view of 0 or 1 elements: view::maybe | Steve Downey | T2 | SG9 Needs Revision |<a href="http://wg21.link/P1255/github">github</a> |
 | <a href="https://isocpp.org/files/papers/D2375R1.pdf">D2375R1</a>| Generalisation of nth_element to a range of nths | JohanLundberg | - | SG9 |<a href="http://wg21.link/P2286/github">github</a> |
 | <a href="http://wg21.link/P1664r3">P1664R3</a>| reconstructible_range - a concept for putting ranges back together | JeanHeyd Meneide, Hannes Hauswedell | - | SG9 |<a href="http://wg21.link/P1664/github">github</a> |
