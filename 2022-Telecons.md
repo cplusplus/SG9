@@ -56,10 +56,10 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>Steve Downey
 <br/>JeanHeyd Meneide
 <br/>Jeff Garland
-<td>T2
-<br/>T1
+<td>T1
 <br/>T1
 <br/>-
+<br/>T2
 <td>
 <td><a href="http://wg21.link/p2164/github">github</a>
 <br/><a href="http://wg21.link/P2155/github">github</a>
