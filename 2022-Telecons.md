@@ -16,24 +16,20 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="http://wg21.link/p1223r3">P1223R3</a>: find_last
-<br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2538r0.html">P2538R0</a>: ADL-proof std::projected
+<td><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2538r0.html">P2538R0</a>: ADL-proof std::projected
 <br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2540r0.html">P2540R0</a>: Empty Product for certain Views
 <br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r0.html">P2542R0</a>: views::concat
-<td>Jeff Garland
-<br/>Arthur O'Dwyer
+<td>Arthur O'Dwyer
 <br/>Steve Downey
 <br/>Hui Xie, S. Levent Yilmaz
-<td>T2
-<br/>-
+<td>-
 <br/>-
 <br/>T2
 <td>C++23, from LWG
 <br/>C++23
 <br/>C++23
 <br/>C++26
-<td><a href="http://wg21.link/p1223/github">github</a>
-<br/><a href="http://wg21.link/p2538/github">github</a>
+<td><a href="http://wg21.link/p2538/github">github</a>
 <br/><a href="http://wg21.link/p2540/github">github</a>
 <br/><a href="http://wg21.link/p2542/github">github</a>
 <td>03-14<br/> 09:30 Pacific
@@ -55,16 +51,20 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <td><a href="https://wg21.link/P2164">P2164R5</a>: views::enumerate
 <br/><a href="https://wg21.link/P1255">P1255R7</a>: A view of 0 or 1 elements: views::maybe
 <br/><a href="https://isocpp.org/files/papers/P1664R6.html">P1664R6</a>: reconstructible_range - a concept for putting ranges back together
+<br/><a href="http://wg21.link/p1223r3">P1223R3</a>: find_last
 <td>Corentin Jabot
 <br/>Steve Downey
 <br/>JeanHeyd Meneide
-<td>T1
+<br/>Jeff Garland
+<td>T2
+<br/>T1
 <br/>T1
 <br/>-
 <td>
 <td><a href="http://wg21.link/p2164/github">github</a>
 <br/><a href="http://wg21.link/P2155/github">github</a>
 <br/><a href="http://wg21.link/P1664/github">github</a>
+<br/><a href="http://wg21.link/p1223/github">github</a>
 <td>
 
 <!---  
