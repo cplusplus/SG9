@@ -54,7 +54,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>
 <br/>C++23, from LWG
 <td><a href="http://wg21.link/p2164/github">github</a>
-<br/><a href="http://wg21.link/P2155/github">github</a>
+<br/><a href="http://wg21.link/P1255/github">github</a>
 <br/><a href="http://wg21.link/P1664/github">github</a>
 <br/><a href="http://wg21.link/p1223/github">github</a>
 <td>
