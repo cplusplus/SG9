@@ -16,11 +16,16 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="http://wg21.link/pXXXXrX">PXXXXRX</a>: 
-<td>TBD
-<td>TBD
-<td>TBD
-<td><a href="http://wg21.link/pXXXX/github">github</a>
+<td><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1223r3.html">P1223R3</a>: find_last
+<br/><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r0.html">P2542R0</a>: views::concat
+<td>Jeff Garland
+<br/>Hui Xie
+<td>T2
+<br/>T2
+<td>C++23
+<br/>C++26
+<td><a href="http://wg21.link/p1223/github">github</a>
+<br/><a href="http://wg21.link/p2542/github">github</a>
 <td>04-11<br/> 09:30 Pacific
 
 </table>
