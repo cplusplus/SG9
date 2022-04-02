@@ -18,14 +18,19 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <tr>
 <td><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1223r3.html">P1223R3</a>: find_last
 <br/><a href="https://isocpp.org/files/papers/P2542R1.html">P2542R1</a>: views::concat
+<br/><a href="https://wg21.link/P1255">P1255R6</a>: A view of 0 or 1 elements: views::maybe
 <td>Jeff Garland
 <br/>Hui Xie
+<br/>Steve Downey
 <td>T2
+<br/>T2
 <br/>T2
 <td>C++23
 <br/>C++26
+<br/>C++26
 <td><a href="http://wg21.link/p1223/github">github</a>
 <br/><a href="http://wg21.link/p2542/github">github</a>
+<br/><a href="http://wg21.link/P1255/github">github</a>
 <td>04-11<br/> 09:30 Pacific
 
 </table>
@@ -43,11 +48,9 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 
 <tr>
 <td><a href="https://wg21.link/P2164">P2164R5</a>: views::enumerate
-<br/><a href="https://wg21.link/P1255">P1255R7</a>: A view of 0 or 1 elements: views::maybe
 <br/><a href="https://isocpp.org/files/papers/P1664R6.html">P1664R6</a>: reconstructible_range - a concept for putting ranges back together
 <br/><a href="http://wg21.link/p1223r3">P1223R3</a>: find_last
 <td>Corentin Jabot
-<br/>Steve Downey
 <br/>JeanHeyd Meneide
 <br/>Jeff Garland
 <td>T1
@@ -59,7 +62,6 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>
 <br/>C++23, from LWG
 <td><a href="http://wg21.link/p2164/github">github</a>
-<br/><a href="http://wg21.link/P1255/github">github</a>
 <br/><a href="http://wg21.link/P1664/github">github</a>
 <br/><a href="http://wg21.link/p1223/github">github</a>
 <td>
