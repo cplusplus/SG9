@@ -16,9 +16,9 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1223r3.html">P1223R3</a>: find_last
+<td><a href="https://wg21.link/p1223r3">P1223R3</a>: find_last
 <br/><a href="https://isocpp.org/files/papers/P2542R1.html">P2542R1</a>: views::concat
-<br/><a href="https://wg21.link/P1255">P1255R6</a>: A view of 0 or 1 elements: views::maybe
+<br/><a href="https://wg21.link/p1255r6">P1255R6</a>: A view of 0 or 1 elements: views::maybe
 <td>Jeff Garland
 <br/>Hui Xie
 <br/>Steve Downey
