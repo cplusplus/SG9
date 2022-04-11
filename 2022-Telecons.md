@@ -28,11 +28,11 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>-
 <br/>T2
 <br/>T2
-<td>C++23
+<td>C++23, from LWG
 <br/>C++23
 <br/>C++26
 <br/>C++26
-<td><a href="http://wg21.link/p1223/github">github</a>
+<td><a href="https://github.com/cplusplus/papers/issues/149">github</a>
 <br/><a href="http://wg21.link/p2550/github">github</a>
 <br/><a href="http://wg21.link/p2542/github">github</a>
 <br/><a href="http://wg21.link/P1255/github">github</a>
@@ -54,21 +54,14 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <tr>
 <td><a href="https://wg21.link/P2164">P2164R5</a>: views::enumerate
 <br/><a href="https://isocpp.org/files/papers/P1664R6.html">P1664R6</a>: reconstructible_range - a concept for putting ranges back together
-<br/><a href="http://wg21.link/p1223r3">P1223R3</a>: find_last
 <td>Corentin Jabot
 <br/>JeanHeyd Meneide
-<br/>Jeff Garland
 <td>T1
-<br/>T1
 <br/>-
-<br/>T2
 <td>
 <br/>
-<br/>
-<br/>C++23, from LWG
 <td><a href="http://wg21.link/p2164/github">github</a>
 <br/><a href="http://wg21.link/P1664/github">github</a>
-<br/><a href="http://wg21.link/p1223/github">github</a>
 <td>
 
 <!---  
