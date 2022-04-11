@@ -17,18 +17,23 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 
 <tr>
 <td><a href="https://wg21.link/p1223r3">P1223R3</a>: find_last
+<br/><a href="https://wg21.link/p2550r0">P2550R0</a>: ranges::copy should say output_iterator somewhere
 <br/><a href="https://isocpp.org/files/papers/P2542R1.html">P2542R1</a>: views::concat
-<br/><a href="https://wg21.link/p1255r6">P1255R6</a>: A view of 0 or 1 elements: views::maybe
+<br/><a href="https://isocpp.org/files/papers/D1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
 <td>Jeff Garland
+<br/>Barry Revzin
 <br/>Hui Xie
 <br/>Steve Downey
 <td>T2
+<br/>-
 <br/>T2
 <br/>T2
 <td>C++23
+<br/>C++23
 <br/>C++26
 <br/>C++26
 <td><a href="http://wg21.link/p1223/github">github</a>
+<br/><a href="http://wg21.link/p2550/github">github</a>
 <br/><a href="http://wg21.link/p2542/github">github</a>
 <br/><a href="http://wg21.link/P1255/github">github</a>
 <td>04-11<br/> 09:30 Pacific
