@@ -16,27 +16,17 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://wg21.link/p1223r3">P1223R3</a>: find_last
-<br/><a href="https://wg21.link/p2550r0">P2550R0</a>: ranges::copy should say output_iterator somewhere
-<br/><a href="https://isocpp.org/files/papers/P2542R1.html">P2542R1</a>: views::concat
+<td><a href="https://isocpp.org/files/papers/P2542R1.html">P2542R1</a>: views::concat
 <br/><a href="https://isocpp.org/files/papers/D1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
-<td>Jeff Garland
-<br/>Barry Revzin
-<br/>Hui Xie
+<td>Hui Xie
 <br/>Steve Downey
 <td>T2
-<br/>-
 <br/>T2
-<br/>T2
-<td>C++23, from LWG
-<br/>C++23
+<td>C++26
 <br/>C++26
-<br/>C++26
-<td><a href="https://github.com/cplusplus/papers/issues/149">github</a>
-<br/><a href="http://wg21.link/p2550/github">github</a>
-<br/><a href="http://wg21.link/p2542/github">github</a>
+<td><a href="http://wg21.link/p2542/github">github</a>
 <br/><a href="http://wg21.link/P1255/github">github</a>
-<td>04-11<br/> 09:30 Pacific
+<td>05-09<br/> 09:30 <br/>Pacific
 
 </table>
   
@@ -115,7 +105,6 @@ Deffered by LEWG
 <td><a href="http://wg21.link/P2286/github">github</a>
 <br/><a href="http://wg21.link/P2404/github">github</a>
 <td>01-10<br/> 09:30 Pacific
-
  
 <tr>
 <td><a href="http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2538r0.html">P2538R0</a>: ADL-proof std::projected
@@ -135,4 +124,27 @@ Deffered by LEWG
 <br/><a href="http://wg21.link/p2542/github">github</a>
 <td>03-14<br/> 09:30 Pacific
 
+<tr>
+<td><a href="https://wg21.link/p1223r3">P1223R3</a>: find_last
+<br/><a href="https://wg21.link/p2550r0">P2550R0</a>: ranges::copy should say output_iterator somewhere
+<br/><a href="https://isocpp.org/files/papers/P2542R1.html">P2542R1</a>: views::concat
+<br/><a href="https://isocpp.org/files/papers/D1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
+<td>Jeff Garland
+<br/>Barry Revzin
+<br/>Hui Xie
+<br/>Steve Downey
+<td>T2
+<br/>-
+<br/>T2
+<br/>T2
+<td>C++23, from LWG
+<br/>C++23
+<br/>C++26
+<br/>C++26
+<td><a href="https://github.com/cplusplus/papers/issues/149">github</a>
+<br/><a href="http://wg21.link/p2550/github">github</a>
+<br/><a href="http://wg21.link/p2542/github">github</a>
+<br/><a href="http://wg21.link/P1255/github">github</a>
+<td>04-11<br/> 09:30 Pacific
+ 
 </table>
