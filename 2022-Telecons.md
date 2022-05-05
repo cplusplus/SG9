@@ -18,14 +18,19 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <tr>
 <td><a href="https://huixie90.github.io/cpp_papers/generated/concat">P2542R2</a>: views::concat
 <br/><a href="https://isocpp.org/files/papers/D1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
+<br/>Ranges Priorities for C++26 (time permits)
 <td>Hui Xie
 <br/>Steve Downey
+<br/>-
 <td>T2
 <br/>T2
+<br/>-
 <td>C++26
+<br/>C++26
 <br/>C++26
 <td><a href="http://wg21.link/p2542/github">github</a>
 <br/><a href="http://wg21.link/P1255/github">github</a>
+<br/>-
 <td>05-09<br/> 09:30 <br/>Pacific
 
 </table>
