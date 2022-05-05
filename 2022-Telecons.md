@@ -16,7 +16,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://isocpp.org/files/papers/P2542R1.html">P2542R1</a>: views::concat
+<td><a href="https://huixie90.github.io/cpp_papers/generated/concat">P2542R2</a>: views::concat
 <br/><a href="https://isocpp.org/files/papers/D1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
 <td>Hui Xie
 <br/>Steve Downey
