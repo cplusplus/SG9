@@ -151,7 +151,7 @@ Deffered by LEWG
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2542R2.html">P2542R2</a>: views::concat
 <br/><a href="https://isocpp.org/files/papers/P1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
-<br/>Ranges Priorities for C++26 (time permits)
+<br/><a href="https://wiki.edg.com/bin/view/Wg21telecons2022/Ranges#SG9-2022-05-09">Ranges Priorities for C++26</a> (time permits)
 <td>Hui Xie
 <br/>Steve Downey
 <br/>-
