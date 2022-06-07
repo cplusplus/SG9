@@ -17,7 +17,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 
 <tr>
 <td><a href="https://isocpp.org/files/papers/P1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
-<br/>Ranges Priorities for C++26 (time permits)
+<br/>Ranges Priorities for C++26
 <td>Steve Downey
 <br/>-
 <td>T2
