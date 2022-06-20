@@ -16,17 +16,13 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://isocpp.org/files/papers/P1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
-<br/>Ranges' Priorities for C++26
-<td>Steve Downey
-<br/>-
-<td>T2
-<br/>-
+<td><a href="https://isocpp.org/files/papers/P2609R0.html">P2609R0</a>: Relaxing Ranges Just A Smidge
+<td>John Eivind Helset
+<td>-
 <td>C++26
+<td><a href="http://wg21.link/P2609/github">github</a>
 <br/>-
-<td><a href="http://wg21.link/P1255/github">github</a>
-<br/>-
-<td>06-13<br/> 09:30 <br/>Pacific
+<td>07-11<br/> 09:30 <br/>Pacific
 
 </table>
   
@@ -165,4 +161,18 @@ Deffered by LEWG
 <br/><a href="http://wg21.link/P1255/github">github</a>
 <br/>-
 <td>05-09<br/> 09:30 <br/>Pacific
+  
+<tr>
+<td><a href="https://isocpp.org/files/papers/P1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
+<br/>Ranges' Priorities for C++26
+<td>Steve Downey
+<br/>-
+<td>T2
+<br/>-
+<td>C++26
+<br/>-
+<td><a href="http://wg21.link/P1255/github">github</a>
+<br/>-
+<td>06-13<br/> 09:30 <br/>Pacific
+
 </table>
