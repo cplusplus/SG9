@@ -16,11 +16,11 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://isocpp.org/files/papers/P2609R0.html">P2609R0</a>: Relaxing Ranges Just A Smidge
-<td>John Eivind Helset
+<td><a href="https://isocpp.org/files/papers/P2609R0.html">P2602R0</a>: Poison Pills are Too Toxic
+<td>Barry Revzin
 <td>-
-<td>C++26
-<td><a href="http://wg21.link/P2609/github">github</a>
+<td>C++23
+<td><a href="http://wg21.link/P2602/github">github</a>
 <br/>-
 <td>07-11<br/> 09:30 <br/>Pacific
 
