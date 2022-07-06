@@ -24,8 +24,8 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>-
 <td>C++26
 <br/>C++23
-<td><a href="http://wg21.link/P2602/github">github</a>
-<br/><a href="http://wg21.link/P1255/github">github</a>
+<td><a href="http://wg21.link/P1255/github">github</a>
+<br/><a href="http://wg21.link/P2602/github">github</a>
 <td>07-11<br/> 09:30 <br/>Pacific
 
 </table>
