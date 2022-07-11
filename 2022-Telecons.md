@@ -16,7 +16,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://isocpp.org/files/papers/P1255R7.html">P1255R7</a>: A view of 0 or 1 elements: views::maybe
+<td><a href="https://isocpp.org/files/papers/D1255R8.html">D1255R8</a>: A view of 0 or 1 elements: views::maybe
 <br/><a href="https://isocpp.org/files/papers/P2602R0.html">P2602R0</a>: Poison Pills are Too Toxic
 <td>Steve Downey
 <br/>Barry Revzin
