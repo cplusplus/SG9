@@ -16,17 +16,12 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://isocpp.org/files/papers/D1255R8.pdf">D1255R8</a>: A view of 0 or 1 elements: views::maybe
-<br/><a href="https://isocpp.org/files/papers/P2602R0.html">P2602R0</a>: Poison Pills are Too Toxic
-<td>Steve Downey
-<br/>Barry Revzin
-<td>T3
-<br/>-
+<td>
+<td>
+<td>
 <td>C++26
-<br/>C++23
-<td><a href="http://wg21.link/P1255/github">github</a>
-<br/><a href="http://wg21.link/P2602/github">github</a>
-<td>07-11<br/> 09:30 <br/>Pacific
+<td>
+<td>08-08<br/> 09:30 <br/>Pacific
 
 </table>
   
@@ -178,5 +173,18 @@ Deffered by LEWG
 <td><a href="http://wg21.link/P1255/github">github</a>
 <br/>-
 <td>06-13<br/> 09:30 <br/>Pacific
+  
+<tr>
+<td><a href="https://isocpp.org/files/papers/D1255R8.pdf">D1255R8</a>: A view of 0 or 1 elements: views::maybe
+<br/><a href="https://isocpp.org/files/papers/P2602R0.html">P2602R0</a>: Poison Pills are Too Toxic
+<td>Steve Downey
+<br/>Barry Revzin
+<td>T3
+<br/>-
+<td>C++26
+<br/>C++23
+<td><a href="http://wg21.link/P1255/github">github</a>
+<br/><a href="http://wg21.link/P2602/github">github</a>
+<td>07-11<br/> 09:30 <br/>Pacific
 
 </table>
