@@ -21,7 +21,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <td>
 <td>C++26
 <td>
-<td>08-08<br/> 09:30 <br/>Pacific
+<td>09-12<br/> 09:30 <br/>Pacific
 
 </table>
   
