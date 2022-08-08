@@ -16,12 +16,17 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td>
-<td>
-<td>
-<td>C++26
-<td>
-<td>09-12<br/> 09:30 <br/>Pacific
+<td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (including C++20)
+  <br/><a href="https://wg21.link/P1684">P1684R2</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
+<td>Ville Voutilainen, Hewill Kang
+  <br/>Christian Trott, Mark Hoemmen
+<td>-
+  <br/>-
+<td>C++20/C++23
+  <br/>C++26
+<td><a href="http://wg21.link/LWG3714/github">github</a>
+  <br/><a href="http://wg21.link/p1864/github">github</a>
+<td>10-10<br/> 09:30 <br/>Pacific
 
 </table>
   
