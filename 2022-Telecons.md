@@ -17,7 +17,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 
 <tr>
 <td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (including C++20)
-  <br/><a href="https://wg21.link/P1684">P1684R2</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1684r3.html">P1684R3</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
 <td>Ville Voutilainen, Hewill Kang
   <br/>Christian Trott, Mark Hoemmen
 <td>-
