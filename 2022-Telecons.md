@@ -17,19 +17,24 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 
 <tr>
 <td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (C++23, may inflict C++20)
-  <br/><a href="https://isocpp.org/files/papers/P2655R0.html">P2655R0</a>: common_reference_t of reference_wrapper Should Be a Reference Type (C++23, possible DR for C++20)
+<br/><a href="https://isocpp.org/files/papers/P2655R0.html">P2655R0</a>: common_reference_t of reference_wrapper Should Be a Reference Type (C++23, possible DR for C++20)
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r2.html">P2542R2</a>: views::concat (C++23)
 <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1684r3.html">P1684R3</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
 <td>Ville Voutilainen, Hewill Kang
+<br/>Hui Xie, S. Levent Yilmaz
 <br/>Hui Xie, S. Levent Yilmaz
 <br/>Christian Trott, Mark Hoemmen
 <td>-
 <br/>-
 <br/>-
+<br/>-
 <td>C++20/C++23
 <br/>C++20/C++23
+<br/>C++23
 <br/>C++26
 <td><a href="http://wg21.link/LWG3714/github">github</a>
 <br/><a href="http://wg21.link/p2655/github">github</a>
+<br/><a href="http://wg21.link/p2542/github">github</a>
 <br/><a href="http://wg21.link/p1684/github">github</a>
 <td>10-10<br/> 09:30 <br/>Pacific
 
