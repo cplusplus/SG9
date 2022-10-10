@@ -16,8 +16,8 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (DR for C++20)
-  <br/><a href="https://isocpp.org/files/papers/P2655R0.html">P2655R0</a>: common_reference_t of reference_wrapper Should Be a Reference Type (DR for C++20)
+<td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (C++23, may inflict C++20)
+  <br/><a href="https://isocpp.org/files/papers/P2655R0.html">P2655R0</a>: common_reference_t of reference_wrapper Should Be a Reference Type (C++23, possible DR for C++20)
 <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1684r3.html">P1684R3</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
 <td>Ville Voutilainen, Hewill Kang
 <br/>Hui Xie, S. Levent Yilmaz
