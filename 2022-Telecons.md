@@ -21,12 +21,15 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://github.com/cplusplus/nbballot/issues/416">FR#416</a>: 26.6 [range.factories] Add views::enumerate
 <br/><a href="https://github.com/cplusplus/nbballot/issues/415">FR#415</a>: 26.6.5 [range.repeat] Replace ranges::repeat with cycle_view
 <br/><a href="https://github.com/cplusplus/nbballot/issues/406">FR#406</a>: 22.14.7 [format.range] formatting of ranges of tuple-like objects
+<br/> (Tentative) US comments
 <td>Casey Carter, Hannes Hauswedell;
 <br/>Tim Song, Michał Dominiak, Sy Brand;
 <br/>Corentin Jabot;
 <br/>Michał Dominiak;
 <br/>Barry Revzin;
+<br/> (Tentative);
 <td>-
+<br/>-
 <br/>-
 <br/>-
 <br/>-
@@ -36,11 +39,13 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://wg21.link/P2164">P2164</a>
 <br/><a href="https://wg21.link/P2474">P2474</a>
 <br/><a href="https://wg21.link/P2286">P2286</a>
+<br/> (Tentative)
 <td><a href="https://github.com/cplusplus/nbballot/issues/472">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/470">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/416">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/415">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/406">github</a>
+<br/> (Tentative)
 <td>11-08<br/> 10:00 Pacific<br/>08:00 HST (Hawaii)
 
  
