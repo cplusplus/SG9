@@ -17,25 +17,25 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
   
 <tr>
 <td><a href="https://github.com/cplusplus/nbballot/issues/472">DE#472</a>: 26.7.6.1 [range.all.general], 26.4.5 [range.refinements] copyable and movable views
-<br/><a href="">DE#470</a>: 26.7.23.2 [range.zip.view], 26.7.31 [range.cartesian] const-breaking zip_view and cartesian_product_view
-<br/><a href="">FR#416</a>: 26.6 [range.factories] Add views::enumerate
-<br/><a href="">FR#415</a>: 26.6.5 [range.repeat] Replace ranges::repeat with cycle_view
-<br/><a href="">FR#406</a>: 22.14.7 [format.range] formatting of ranges of tuple-like objects
-<td>
-<br/>
-<br/>
-<br/>
-<br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/470">DE#470</a>: 26.7.23.2 [range.zip.view], 26.7.31 [range.cartesian] const-breaking zip_view and cartesian_product_view
+<br/><a href="https://github.com/cplusplus/nbballot/issues/416">FR#416</a>: 26.6 [range.factories] Add views::enumerate
+<br/><a href="https://github.com/cplusplus/nbballot/issues/415">FR#415</a>: 26.6.5 [range.repeat] Replace ranges::repeat with cycle_view
+<br/><a href="https://github.com/cplusplus/nbballot/issues/406">FR#406</a>: 22.14.7 [format.range] formatting of ranges of tuple-like objects
+<td>Casey Carter, Hannes Hauswedell;
+<br/>Tim Song, Michał Dominiak, Sy Brand;
+<br/>Corentin Jabot;
+<br/>Michał Dominiak;
+<br/>Barry Revzin;
 <td>-
 <br/>-
 <br/>-
 <br/>-
 <br/>-
-<td>C++23
-<br/>C++23
-<br/>C++23
-<br/>C++23
-<br/>C++23
+<td><a href="https://wg21.link/P1456">P1456</a>;<a href="https://wg21.link/P2636">P2636</a>
+<br/><a href="https://wg21.link/P2321/">P2321</a>;<a href="https://wg21.link/P2374">P2374</a>
+<br/><a href="https://wg21.link/P2164">P2164</a>
+<br/><a href="https://wg21.link/P2474">P2474</a>
+<br/><a href="https://wg21.link/P2286">P2286</a>
 <td><a href="https://github.com/cplusplus/nbballot/issues/472">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/470">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/416">github</a>
