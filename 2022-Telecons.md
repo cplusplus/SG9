@@ -14,30 +14,36 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <th>Comments 
 <th>Issues
 <th>Date & Time
-
+  
 <tr>
-<td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (C++23, may inflict C++20)
-<br/><a href="https://isocpp.org/files/papers/P2655R0.html">P2655R0</a>: common_reference_t of reference_wrapper Should Be a Reference Type (C++23, possible DR for C++20)
-<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r2.html">P2542R2</a>: views::concat (C++23)
-<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1684r3.html">P1684R3</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
-<td>Ville Voutilainen, Hewill Kang
-<br/>Hui Xie, S. Levent Yilmaz
-<br/>Hui Xie, S. Levent Yilmaz
-<br/>Christian Trott, Mark Hoemmen
+<td><a href="https://github.com/cplusplus/nbballot/issues/472">DE#472</a>: 26.7.6.1 [range.all.general], 26.4.5 [range.refinements] copyable and movable views
+<br/><a href="">DE#470</a>: 26.7.23.2 [range.zip.view], 26.7.31 [range.cartesian] const-breaking zip_view and cartesian_product_view
+<br/><a href="">FR#416</a>: 26.6 [range.factories] Add views::enumerate
+<br/><a href="">FR#415</a>: 26.6.5 [range.repeat] Replace ranges::repeat with cycle_view
+<br/><a href="">FR#406</a>: 22.14.7 [format.range] formatting of ranges of tuple-like objects
+<td>
+<br/>
+<br/>
+<br/>
+<br/>
 <td>-
 <br/>-
 <br/>-
 <br/>-
-<td>C++20/C++23
-<br/>C++20/C++23
+<br/>-
+<td>C++23
 <br/>C++23
-<br/>C++26
-<td><a href="http://wg21.link/LWG3714/github">github</a>
-<br/><a href="http://wg21.link/p2655/github">github</a>
-<br/><a href="http://wg21.link/p2542/github">github</a>
-<br/><a href="http://wg21.link/p1684/github">github</a>
-<td>10-10<br/> 09:30 <br/>Pacific
+<br/>C++23
+<br/>C++23
+<br/>C++23
+<td><a href="https://github.com/cplusplus/nbballot/issues/472">github</a>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/470">github</a>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/416">github</a>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/415">github</a>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/406">github</a>
+<td>11-08<br/> 10:00 Pacific<br/>08:00 HST (Hawaii)
 
+ 
 </table>
   
 ### Unscheduled
@@ -201,5 +207,28 @@ Deffered by LEWG
 <td><a href="http://wg21.link/P1255/github">github</a>
 <br/><a href="http://wg21.link/P2602/github">github</a>
 <td>07-11<br/> 09:30 <br/>Pacific
+ 
+<tr>
+<td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (C++23, may inflict C++20)
+<br/><a href="https://isocpp.org/files/papers/P2655R0.html">P2655R0</a>: common_reference_t of reference_wrapper Should Be a Reference Type (C++23, possible DR for C++20)
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r2.html">P2542R2</a>: views::concat (C++23)
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1684r3.html">P1684R3</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
+<td>Ville Voutilainen, Hewill Kang
+<br/>Hui Xie, S. Levent Yilmaz
+<br/>Hui Xie, S. Levent Yilmaz
+<br/>Christian Trott, Mark Hoemmen
+<td>-
+<br/>-
+<br/>-
+<br/>-
+<td>C++20/C++23
+<br/>C++20/C++23
+<br/>C++23
+<br/>C++26
+<td><a href="http://wg21.link/LWG3714/github">github</a>
+<br/><a href="http://wg21.link/p2655/github">github</a>
+<br/><a href="http://wg21.link/p2542/github">github</a>
+<br/><a href="http://wg21.link/p1684/github">github</a>
+<td>10-10<br/> 09:30 <br/>Pacific
 
 </table>
