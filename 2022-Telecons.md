@@ -25,15 +25,15 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://github.com/cplusplus/nbballot/issues/406">FR#406</a>: 22.14.7 [format.range] formatting of ranges of tuple-like objects
 <br/><a href="https://github.com/cplusplus/nbballot/issues/539">US#539</a>: US 61-126 32.11 [re.iter], 26.7.14 [range.join] Handle stashing iterators
 <br/><a href="https://github.com/cplusplus/nbballot/issues/527">US#527</a>: US 50-112 26.5.7.2 [range.utility.conv.to] Allow an omitting parentheses
-<td>Hui Xie, S. Levent Yilmaz;
-<br/>Yehezkel Bernat;
-<br/>Casey Carter, Hannes Hauswedell;
-<br/>Tim Song, Michał Dominiak, Sy Brand;
-<br/>Corentin Jabot;
-<br/>Michał Dominiak;
-<br/>Barry Revzin;
-<br/>Barry Revzin;
-<br/>Corentin Jabot, Eric Niebler, Casey Carter;
+<td>Hui Xie, S. Levent Yilmaz;<br/>
+<br/>Yehezkel Bernat;<br/>
+<br/>Casey Carter, Hannes Hauswedell;<br/>
+<br/>Tim Song, Michał Dominiak, Sy Brand;<br/>
+<br/>Corentin Jabot;<br/>
+<br/>Michał Dominiak;<br/>
+<br/>Barry Revzin;<br/>
+<br/>Barry Revzin;<br/>
+<br/>Corentin Jabot, Eric Niebler, Casey Carter;<br/>
 <td>-
 <br/>-
 <br/>-
