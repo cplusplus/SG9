@@ -26,7 +26,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://github.com/cplusplus/nbballot/issues/539">US#539</a>: US 61-126 32.11 [re.iter], 26.7.14 [range.join] Handle stashing iterators
 <br/><a href="https://github.com/cplusplus/nbballot/issues/527">US#527</a>: US 50-112 26.5.7.2 [range.utility.conv.to] Allow an omitting parentheses
 <td>Hui Xie, S. Levent Yilmaz;
-<br/>Yehezkel Brant;
+<br/>Yehezkel Bernat;
 <br/>Casey Carter, Hannes Hauswedell;
 <br/>Tim Song, Michał Dominiak, Sy Brand;
 <br/>Corentin Jabot;
