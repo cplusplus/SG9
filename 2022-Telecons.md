@@ -31,7 +31,9 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>Corentin Jabot;
 <br/>Michał Dominiak;
 <br/>Barry Revzin;
-<br/> (Tentative);
+<br/>Barry Revzin;
+<br/>Corentin Jabot, Eric Niebler, Casey Carter;
+<br/>Yehezkel Brant;
 <td>-
 <br/>-
 <br/>-
@@ -45,14 +47,18 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://wg21.link/P2164">P2164</a>
 <br/><a href="https://wg21.link/P2474">P2474</a>
 <br/><a href="https://wg21.link/P2286">P2286</a>
-<br/> (Tentative)
+<br/><a href="https://cplusplus.github.io/LWG/issue3698">LWG3698</a>
+<br/>
+<br/>
 <td><a href="https://wg21.link/P2655/github">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/472">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/470">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/416">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/415">github</a>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/406">github</a>
-<br/> (Tentative)
+<br/><a href="https://github.com/cplusplus/nbballot/issues/539"">github</a>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/527"">github</a>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/523"">github</a>
 <td>11-08<br/> 10:00 Pacific<br/>08:00 HST (Hawaii)
 
  
