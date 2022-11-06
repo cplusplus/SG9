@@ -34,33 +34,33 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>Barry Revzin;<br/>
 <br/>Barry Revzin;<br/>
 <br/>Corentin Jabot, Eric Niebler, Casey Carter;<br/>
-<td>-
-<br/>-
-<br/>-
-<br/>-
-<br/>-
-<br/>-
-<br/>-
-<br/>-
-<br/>-
-<td><a href="https://isocpp.org/files/papers/D2655R1.html">D2655R1</a>
-<br/><a href="https://wg21.link/P2406">P2406</a>
-<br/><a href="https://wg21.link/P1456">P1456</a>;<a href="https://wg21.link/P2636">P2636</a>
-<br/><a href="https://wg21.link/P2321/">P2321</a>;<a href="https://wg21.link/P2374">P2374</a>
-<br/><a href="https://wg21.link/P2164">P2164</a>
-<br/><a href="https://wg21.link/P2474">P2474</a>
-<br/><a href="https://wg21.link/P2286">P2286</a>
-<br/><a href="https://cplusplus.github.io/LWG/issue3698">LWG3698</a>;<a href="https://wg21.link/P2441">P2441</a>
-<br/><a href="https://wg21.link/P1206">P1206</a>
-<td><a href="https://wg21.link/P2655/github">github</a>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/523"">github</a>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/472">github</a>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/470">github</a>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/416">github</a>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/415">github</a>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/406">github</a>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/539"">github</a>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/527"">github</a>
+<td>-<br/>
+<br/>-<br/>
+<br/>-<br/>
+<br/>-<br/>
+<br/>-<br/>
+<br/>-<br/>
+<br/>-<br/>
+<br/>-<br/>
+<br/>-<br/>
+<td><a href="https://isocpp.org/files/papers/D2655R1.html">D2655R1</a><br/>
+<br/><a href="https://wg21.link/P2406">P2406</a><br/>
+<br/><a href="https://wg21.link/P1456">P1456</a>;<a href="https://wg21.link/P2636">P2636</a><br/>
+<br/><a href="https://wg21.link/P2321/">P2321</a>;<a href="https://wg21.link/P2374">P2374</a><br/>
+<br/><a href="https://wg21.link/P2164">P2164</a><br/>
+<br/><a href="https://wg21.link/P2474">P2474</a><br/>
+<br/><a href="https://wg21.link/P2286">P2286</a><br/>
+<br/><a href="https://cplusplus.github.io/LWG/issue3698">LWG3698</a>;<a href="https://wg21.link/P2441">P2441</a><br/>
+<br/><a href="https://wg21.link/P1206">P1206</a><br/>
+<td><a href="https://wg21.link/P2655/github">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/523"">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/472">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/470">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/416">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/415">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/406">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/539"">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/527"">github</a><br/>
 <td>11-08<br/> 10:00 Pacific<br/>08:00 HST (Hawaii)
 
  
