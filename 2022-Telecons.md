@@ -19,10 +19,12 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <td><a href="https://isocpp.org/files/papers/D2655R1.html">D2655R1<a/>: common_reference_t of reference_wrapper Should Be a Reference Type
 <br/><a href="https://github.com/cplusplus/nbballot/issues/472">DE#472</a>: 26.7.6.1 [range.all.general], 26.4.5 [range.refinements] copyable and movable views
 <br/><a href="https://github.com/cplusplus/nbballot/issues/470">DE#470</a>: 26.7.23.2 [range.zip.view], 26.7.31 [range.cartesian] const-breaking zip_view and cartesian_product_view
-<br/><a href="https://github.com/cplusplus/nbballot/issues/416">FR#416</a>: 26.6 [range.factories] Add views::enumerate
-<br/><a href="https://github.com/cplusplus/nbballot/issues/415">FR#415</a>: 26.6.5 [range.repeat] Replace ranges::repeat with cycle_view
+<br/><a href="https://github.com/cplusplus/nbballot/issues/416">FR#416</a>: 26.6 [range.factories] Add views::enumerate (duplicate: <a href="https://github.com/cplusplus/nbballot/issues/416">US#525</a>)
+<br/><a href="https://github.com/cplusplus/nbballot/issues/415">FR#415</a>: 26.6.5 [range.repeat] Replace ranges::repeat with cycle_view (duplicate: <a href="https://github.com/cplusplus/nbballot/issues/528">US#528</a>)
 <br/><a href="https://github.com/cplusplus/nbballot/issues/406">FR#406</a>: 22.14.7 [format.range] formatting of ranges of tuple-like objects
-<br/> (Tentative) US comments
+<br/><a href="https://github.com/cplusplus/nbballot/issues/539">US#539</a>: US 61-126 32.11 [re.iter], 26.7.14 [range.join] Handle stashing iterators
+<br/><a href="https://github.com/cplusplus/nbballot/issues/527">US#527</a>: US 50-112 26.5.7.2 [range.utility.conv.to] Allow an omitting parentheses
+<br/><a href="https://github.com/cplusplus/nbballot/issues/523">US#523</a>: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments
 <td>Hui Xie, S. Levent Yilmaz;
 <br/>Casey Carter, Hannes Hauswedell;
 <br/>Tim Song, Michał Dominiak, Sy Brand;
