@@ -69,8 +69,8 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://github.com/cplusplus/nbballot/issues/539">github</a><br/>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/527">github</a><br/>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/524">github</a><br/>
-<td>11-08<br/> 10:00 Pacific<br/>08:00 HST (Hawaii)
 <br/><a href="https://wg21.link/P2655/github">github</a><br/>
+<td>11-08<br/> 10:00 Pacific<br/>08:00 HST (Hawaii)
 </table>
   
 ### Unscheduled
