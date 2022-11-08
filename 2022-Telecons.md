@@ -22,9 +22,9 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://github.com/cplusplus/nbballot/issues/416">FR#416</a>: 26.6 [range.factories] Add views::enumerate (duplicate: <a href="https://github.com/cplusplus/nbballot/issues/525">US#525</a>)
 <br/><a href="https://github.com/cplusplus/nbballot/issues/415">FR#415</a>: 26.6.5 [range.repeat] Replace ranges::repeat with cycle_view (duplicate: <a href="https://github.com/cplusplus/nbballot/issues/528">US#528</a>)
 <br/><a href="https://github.com/cplusplus/nbballot/issues/406">FR#406</a>: 22.14.7 [format.range] formatting of ranges of tuple-like objects
-<br/><a href="https://github.com/cplusplus/nbballot/issues/539">US#539</a>: US 61-126 32.11 [re.iter], 26.7.14 [range.join] Handle stashing iterators
 <br/><a href="https://github.com/cplusplus/nbballot/issues/527">US#527</a>: US 50-112 26.5.7.2 [range.utility.conv.to] Allow an omitting parentheses
 <br/><a href="https://isocpp.org/files/papers/D2655R1.html">D2655R1<a/>: common_reference_t of reference_wrapper Should Be a Reference Type
+<br/><a href="https://github.com/cplusplus/nbballot/issues/539">US#539</a>: US 61-126 32.11 [re.iter], 26.7.14 [range.join] Handle stashing iterators
 <br/><a href="https://github.com/cplusplus/nbballot/issues/524">US#524</a>: US 47-109 26 [ranges] Resolve open issues
 
 
@@ -34,8 +34,8 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>Corentin Jabot;<br/>
 <br/>Michał Dominiak;<br/>
 <br/>Barry Revzin;<br/>
-<br/>Barry Revzin;<br/>
 <br/>Corentin Jabot, Eric Niebler, Casey Carter;<br/>
+<br/>Barry Revzin;<br/>
 <br/>Hui Xie, S. Levent Yilmaz;<br/>
 <br/>-<br/>
 
@@ -56,9 +56,9 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://wg21.link/P2164">P2164</a><br/>
 <br/><a href="https://wg21.link/P2474">P2474</a><br/>
 <br/><a href="https://wg21.link/P2286">P2286</a><br/>
-<br/><a href="https://cplusplus.github.io/LWG/issue3698">LWG3698</a>;<a href="https://wg21.link/P2441">P2441</a><br/>
 <br/><a href="https://wg21.link/P1206">P1206</a><br/>
 <br/><a href="https://isocpp.org/files/papers/D2655R1.html">D2655R1</a><br/>
+<br/><a href="https://cplusplus.github.io/LWG/issue3698">LWG3698</a>;<a href="https://wg21.link/P2441">P2441</a><br/>
 <br/>-<br/>
 
 <td><a href="https://github.com/cplusplus/nbballot/issues/472">github</a><br/>
@@ -67,9 +67,9 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://github.com/cplusplus/nbballot/issues/416">github</a><br/>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/415">github</a><br/>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/406">github</a><br/>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/539">github</a><br/>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/527">github</a><br/>
 <br/><a href="https://wg21.link/P2655/github">github</a><br/>
+<br/><a href="https://github.com/cplusplus/nbballot/issues/539">github</a><br/>
 <br/><a href="https://github.com/cplusplus/nbballot/issues/524">github</a><br/>
 <td>11-08<br/> 10:00 Pacific<br/>08:00 HST (Hawaii)
 </table>
