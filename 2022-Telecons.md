@@ -30,7 +30,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 
 <td>Casey Carter, Hannes Hauswedell;<br/>
 <br/>Yehezkel Bernat, Barry Revzin;<br/>
-<br/>Tim Song, Michał Dominiak, Sy Brand;<br/>
+<br/>Nicolai Josuttis, Tim Song, Michał Dominiak, Sy Brand;<br/>
 <br/>Corentin Jabot;<br/>
 <br/>Michał Dominiak;<br/>
 <br/>Barry Revzin;<br/>
