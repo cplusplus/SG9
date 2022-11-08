@@ -56,7 +56,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/><a href="https://wg21.link/P2164">P2164</a><br/>
 <br/><a href="https://wg21.link/P2474">P2474</a><br/>
 <br/><a href="https://wg21.link/P2286">P2286</a><br/>
-<br/><a href="https://wg21.link/P1206">P1206</a><br/>
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1206r1.pdf">P1206</a><br/>
 <br/><a href="https://isocpp.org/files/papers/D2655R1.html">D2655R1</a><br/>
 <br/><a href="https://cplusplus.github.io/LWG/issue3698">LWG3698</a>;<a href="https://wg21.link/P2441">P2441</a><br/>
 <br/>-<br/>
