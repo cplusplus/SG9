@@ -51,7 +51,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <br/>-<br/>
 
 <td><a href="https://wg21.link/P1456">P1456</a>;<a href="https://wg21.link/P2636">P2636</a><br/><br/>
-<br/><a href="https://raw.githack.com/YehezkelShB/cpp_proposals/P2406R1-WIP/P2406-counted-iterator-and-input-iterators.html#desired-behavior">P2406</a> <a href="https://raw.githack.com/YehezkelShB/cpp_proposals/LazyInputIterator/P2578-block-input-iterator-from-counted-iterator.html#problem-description">P2578</a><br/>
+<br/><a href="https://raw.githack.com/YehezkelShB/cpp_proposals/P2406R1-WIP/P2406-counted-iterator-and-input-iterators.html#desired-behavior">P2406</a> <a href="https://isocpp.org/files/papers/D2578R0.html">P2578</a><br/>
 <br/><a href="https://wg21.link/P2321/">P2321</a>;<a href="https://wg21.link/P2374">P2374</a><br/>
 <br/><a href="https://wg21.link/P2164">P2164</a><br/>
 <br/><a href="https://wg21.link/P2474">P2474</a><br/>
