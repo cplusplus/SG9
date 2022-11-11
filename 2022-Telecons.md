@@ -237,7 +237,7 @@ Deffered by LEWG
 <td>07-11<br/> 09:30 <br/>Pacific
  
 <tr>
-<td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (C++23, may inflict C++20)
+<td><a href="https://cplusplus.github.io/LWG/issue3714">LWG3714</a>: Non-single-argument constructors for range adaptors should not be explicit (C++23, may inflict C++20) + <a href="https://isocpp.org/files/papers/P2711R0.html">P2711</a>: Ruminations on explicit multi-param constructors of views
 <br/><a href="https://isocpp.org/files/papers/P2655R0.html">P2655R0</a>: common_reference_t of reference_wrapper Should Be a Reference Type (C++23, possible DR for C++20)
 <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r2.html">P2542R2</a>: views::concat (C++23)
 <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1684r3.html">P1684R3</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
