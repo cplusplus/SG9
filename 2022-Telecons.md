@@ -18,24 +18,31 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 
 <tr>
   
-  
-<td><a href="https://wg21.link/P2636">P2636</a>: References to ranges should always be viewable<br/><br/>
-<a href="https://isocpp.org/files/papers/D2406R1.html">P2406</a>: Fix `counted_iterator` interaction with input iterators<br/>
+<td><a href="https://isocpp.org/files/papers/D2406R1.html">P2406</a>: Fix `counted_iterator` interaction with input iterators<br/>
 <a href="https://isocpp.org/files/papers/D2578R0.html">P2578</a>: Block eager input (non-forward) iterators from counted_iterator<br/> (time permites)
 
-<td>Casey Carter, Hannes Hauswedell;<br/><br/>
-<br/>Yehezkel Bernat, Barry Revzin;<br/>
+<td>Yehezkel Bernat, Barry Revzin;
  
-<td>-<br/><br/>
-<br/>-<br/>
+<td>-<br/>
+ 
+<td><a href="https://github.com/cplusplus/nbballot/issues/523">US#523</a>: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments
+
+<td><a href="https://github.com/cplusplus/nbballot/issues/523">github</a>
+<td>12-12<br/> 9:30 Pacific
+
+<tr>
+  
+<td><a href="https://wg21.link/P2636">P2636</a>: References to ranges should always be viewable<br/>
+
+<td>Casey Carter, Hannes Hauswedell;
+ 
+<td>-
  
 <td><a href="https://github.com/cplusplus/nbballot/issues/472">DE#472</a>: 26.7.6.1 [range.all.general], 26.4.5 [range.refinements] copyable and movable views
-<br/><br/>
-<a href="https://github.com/cplusplus/nbballot/issues/523">US#523</a>: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments
 
-<td><a href="https://github.com/cplusplus/nbballot/issues/472">github</a><br/><br/>
-<br/><a href="https://github.com/cplusplus/nbballot/issues/523">github</a>
-<td>12-12<br/> 9:30 Pacific
+<td><a href="https://github.com/cplusplus/nbballot/issues/472">github</a>
+
+<td>01-09<br/> 9:30 Pacific
 
 </table>
   
