@@ -19,7 +19,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2022/SG9
 <tr>
   
 <td>
-<a href="https://isocpp.org/files/papers/D2406R1.html">P2406</a>: Fix `counted_iterator` interaction with input iterators<br/>
+<a href="https://raw.githack.com/YehezkelShB/cpp_proposals/P2406R2/P2406-counted-iterator-and-input-iterators.html">P2406</a>: Fix `counted_iterator` interaction with input iterators<br/>
 <a href="https://wg21.link/P2636">P2636</a>: References to ranges should always be viewable<br/>
 <a href="https://wg21.link/P2655">P2655</a>: common_reference_t of reference_wrapper Should Be a Reference Type<br/>
 
