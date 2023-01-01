@@ -264,7 +264,7 @@ Deffered by LEWG
 <br/>-<br/>
 
 <td><a href="https://wg21.link/P1456">P1456</a>;<a href="https://wg21.link/P2636">P2636</a><br/><br/>
-<br/><a href="https://raw.githack.com/YehezkelShB/cpp_proposals/P2406R1-WIP/P2406-counted-iterator-and-input-iterators.html#desired-behavior">P2406</a> <a href="https://isocpp.org/files/papers/D2578R0.html">P2578</a><br/>
+<br/><a href="https://isocpp.org/files/papers/D2406R1.html">P2406</a> <a href="https://isocpp.org/files/papers/D2578R0.html">P2578</a><br/>
 <br/><a href="https://wg21.link/P2321/">P2321</a>;<a href="https://wg21.link/P2374">P2374</a><br/>
 <br/><a href="https://wg21.link/P2164">P2164</a><br/>
 <br/><a href="https://wg21.link/P2474">P2474</a><br/>
