@@ -23,7 +23,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <td>
 <td>
 <td>
-<td>02-07 (Issaquah) <br/> 9:00 Pacific
+<td>02-06 (Issaquah) <br/> 13:00 Pacific
 
 </table>
   
