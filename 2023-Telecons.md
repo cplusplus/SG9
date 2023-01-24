@@ -15,14 +15,33 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <th>Issues
 <th>Date & Time
 
-
 <tr>
   
 <td>
+<a href="https://raw.githack.com/YehezkelShB/cpp_proposals/P2406R2/P2406-counted-iterator-and-input-iterators.html">P2406</a>: Fix `counted_iterator` interaction with input iterators
+  <br/><a href="https://wg21.link/P2655">P2655</a>: common_reference_t of reference_wrapper Should Be a Reference Type
+  <br/><a href="https://github.com/regevran/wg21/blob/master/P2022R0.pdf">P2022</a>: Rangified version of lexicographical_compare_three_way
+  <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2769r0.html">P2769</a>: get_element customization point object
 <td>
+  Yehezkel Bernat;
+  <br/>Hui Xie, S. Levent Yilmaz;
+  <br/>Ran Regev;
+  <br/>Ruslan Arutyunyan, Alexey Kukanov;
 <td>
+  -<br/>
+  <br/>-<br/>
+  <br/>-<br/>
+  <br/>-<br/>
 <td>
+  C++23<br/>
+  <br/>C++23<br/>
+  <br/>C++26<br/>
+  <br/>C++26<br/>
 <td>
+  <a href="https://github.com/cplusplus/nbballot/issues/523">US#523</a>: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments
+  <br/>-
+  <br/>-
+  <br/>-
 <td>02-06 (Issaquah) <br/> 13:00 Pacific
 
 </table>
