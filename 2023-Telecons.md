@@ -33,15 +33,15 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
   <br/>-<br/>
   <br/>-<br/>
 <td>
-  C++23<br/>
-  <br/>C++23<br/>
-  <br/>C++26<br/>
-  <br/>C++26<br/>
-<td>
   <a href="https://github.com/cplusplus/nbballot/issues/523">US#523</a>: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments
-  <br/>-
-  <br/>-
-  <br/>-
+  <br/>C++23
+  <br/>C++26
+  <br/>C++26
+<td>
+  <a href="https://wg21.link/P2406/github">github</a>
+  <a href="https://wg21.link/P2655/github">github</a>
+  <a href="https://wg21.link/P2769/github">github</a>
+  <a href="https://wg21.link/P2022/github">github</a>
 <td>02-06 (Issaquah) <br/> 13:00 Pacific
 
 </table>
