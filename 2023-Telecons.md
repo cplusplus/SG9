@@ -20,13 +20,13 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <td>
 <a href="https://raw.githack.com/YehezkelShB/cpp_proposals/P2406R2/P2406-counted-iterator-and-input-iterators.html">P2406</a>: Fix `counted_iterator` interaction with input iterators
   <br/><a href="https://wg21.link/P2655">P2655</a>: common_reference_t of reference_wrapper Should Be a Reference Type
-  <br/><a href="https://github.com/regevran/wg21/blob/master/P2022R0.pdf">P2022</a>: Rangified version of lexicographical_compare_three_way
   <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2769r0.html">P2769</a>: get_element customization point object
+  <br/><a href="https://github.com/regevran/wg21/blob/master/P2022R0.pdf">P2022</a>: Rangified version of lexicographical_compare_three_way
 <td>
   Yehezkel Bernat;
   <br/>Hui Xie, S. Levent Yilmaz;
-  <br/>Ran Regev;
   <br/>Ruslan Arutyunyan, Alexey Kukanov;
+  <br/>Ran Regev;
 <td>
   -<br/>
   <br/>-<br/>
