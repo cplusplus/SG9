@@ -22,13 +22,16 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
   <br/><a href="https://isocpp.org/files/papers/D2655R2.html">D2655R2</a>: common_reference_t of reference_wrapper Should Be a Reference Type
   <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2769r0.html">P2769R0</a>: get_element customization point object
   <br/><a href="https://github.com/regevran/wg21/blob/master/P2022R0.pdf">P2022R0</a>: Rangified version of lexicographical_compare_three_way
+  <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1684r3.html">P1684R3</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
 <td>
   Yehezkel Bernat;
   <br/>Hui Xie, S. Levent Yilmaz;
   <br/>Ruslan Arutyunyan, Alexey Kukanov;
   <br/>Ran Regev;
+  <br/>Christian Trott, Mark Hoemmen;
 <td>
   -<br/>
+  <br/>-<br/>
   <br/>-<br/>
   <br/>-<br/>
   <br/>-<br/>
@@ -37,11 +40,13 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
   <br/>C++23
   <br/>C++26
   <br/>C++26
+  <br/>C++26
 <td>
   <a href="https://wg21.link/P2406/github">github</a>
   <a href="https://wg21.link/P2655/github">github</a>
   <a href="https://wg21.link/P2769/github">github</a>
   <a href="https://wg21.link/P2022/github">github</a>
+  <a href="https://wg21.link/P1684/github">github</a>
 <td>02-06 (Issaquah) <br/> 13:00 Pacific
 
 </table>
