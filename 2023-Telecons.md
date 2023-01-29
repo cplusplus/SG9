@@ -21,8 +21,8 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <a href="https://isocpp.org/files/papers/P2406R2.html">D2406R2</a>: Fix `counted_iterator` interaction with input iterators
   <br/><a href="https://isocpp.org/files/papers/D2655R2.html">D2655R2</a>: common_reference_t of reference_wrapper Should Be a Reference Type
   <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2769r0.html">P2769R0</a>: get_element customization point object
-  <br/>(Tentative) <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p1684r3.html">P1684R3</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
-  <br/>(Tentative) <a href="https://github.com/regevran/wg21/blob/master/P2022R0.pdf">P2022R0</a>: Rangified version of lexicographical_compare_three_way
+  <br/>(Tentative) <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p1684r4.html">P1684R4</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
+  <br/>(Tentative) <a href="https://isocpp.org/files/papers/P2022R0.pdf">P2022R0</a>: Rangified version of lexicographical_compare_three_way
 <td>
   Yehezkel Bernat;
   <br/>Hui Xie, S. Levent Yilmaz;
