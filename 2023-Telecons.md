@@ -18,7 +18,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <tr>
   
 <td>
-<a href="https://isocpp.org/files/papers/P2406R2.html">D2406R2</a>: Fix `counted_iterator` interaction with input iterators
+<a href="https://isocpp.org/files/papers/P2406R3.html">P2406R3</a>: Fix `counted_iterator` interaction with input iterators
   <br/><a href="https://isocpp.org/files/papers/P2655R2.html">P2655R2</a>: common_reference_t of reference_wrapper Should Be a Reference Type
   <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2769r0.html">P2769R0</a>: get_element customization point object
   <br/>(Tentative) <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p1684r4.html">P1684R4</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
