@@ -6,7 +6,7 @@ The current focus of the group is on C++26 Ranges utilities, though we welcome a
 
 ### Full Status
 For the complete ranges papers' status and a list of open tasks please visit: 
-<a href="https://docs.google.com/spreadsheets/d/15QsTFlFN8019ZCkjaKKxHCIKSosI3El4ETgarD0Y7_E/edit?usp=sharing">Ranges Status</a>
+<a href="https://docs.google.com/spreadsheets/d/1L4NqXfD21To_BCycVuRn_sbfqOGMPVCZ/edit?usp=sharing&ouid=110629087461400411513&rtpof=true&sd=true">Ranges Status</a>
 
 
 ### Ongoing (Currently In SG9)
