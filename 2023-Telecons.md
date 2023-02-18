@@ -18,36 +18,13 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <tr>
   
 <td>
-<a href="https://isocpp.org/files/papers/P2406R3.html">P2406R3</a>: Fix `counted_iterator` interaction with input iterators
-  <br/><a href="https://isocpp.org/files/papers/P2655R2.html">P2655R2</a>: common_reference_t of reference_wrapper Should Be a Reference Type
-  <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2769r0.html">P2769R0</a>: get_element customization point object
-  <br/>(Tentative) <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p1684r4.html">P1684R4</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
-  <br/>(Tentative) <a href="https://isocpp.org/files/papers/P2022R0.pdf">P2022R0</a>: Rangified version of lexicographical_compare_three_way
+<a href="https://isocpp.org/files/papers/P2406R3.html">PXXXXRX</a>: TBD
 <td>
-  Yehezkel Bernat;
-  <br/>Hui Xie, S. Levent Yilmaz;
-  <br/>Ruslan Arutyunyan, Alexey Kukanov;
-  <br/>Christian Trott, Mark Hoemmen;
-  <br/>Ran Regev;
+  TBD
 <td>
-  -<br/>
-  <br/>-<br/>
-  <br/>-<br/>
-  <br/>-<br/>
-  <br/>-<br/>
 <td>
-  <a href="https://github.com/cplusplus/nbballot/issues/523">US#523</a>: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments
-  <br/>C++23
-  <br/>C++26
-  <br/>C++26
-  <br/>C++26
 <td>
-  <a href="https://wg21.link/P2406/github">github</a>
-  <a href="https://wg21.link/P2655/github">github</a>
-  <a href="https://wg21.link/P2769/github">github</a>
-  <a href="https://wg21.link/P1684/github">github</a>
-  <a href="https://wg21.link/P2022/github">github</a>
-<td>02-06 (Issaquah) <br/> 13:00 Pacific
+<td>03-13 <br/> 09:30 Pacific
 
 </table>
   
@@ -116,5 +93,40 @@ Hui Xie, S. Levent Yilmaz;<br/>
 <a href="https://wg21.link/P2655/github">github</a>
 
 <td>01-02<br/> 9:30 Pacific
+
+  
+<tr>
+  
+<td>
+<a href="https://isocpp.org/files/papers/P2406R3.html">P2406R3</a>: Fix `counted_iterator` interaction with input iterators
+  <br/><a href="https://isocpp.org/files/papers/P2655R2.html">P2655R2</a>: common_reference_t of reference_wrapper Should Be a Reference Type
+  <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2769r0.html">P2769R0</a>: get_element customization point object
+  <br/>(Tentative) <a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p1684r4.html">P1684R4</a>: mdarray: An Owning Multidimensional Array Analog of mdspan
+  <br/>(Tentative) <a href="https://isocpp.org/files/papers/P2022R0.pdf">P2022R0</a>: Rangified version of lexicographical_compare_three_way
+<td>
+  Yehezkel Bernat;
+  <br/>Hui Xie, S. Levent Yilmaz;
+  <br/>Ruslan Arutyunyan, Alexey Kukanov;
+  <br/>Christian Trott, Mark Hoemmen;
+  <br/>Ran Regev;
+<td>
+  -<br/>
+  <br/>-<br/>
+  <br/>-<br/>
+  <br/>-<br/>
+  <br/>-<br/>
+<td>
+  <a href="https://github.com/cplusplus/nbballot/issues/523">US#523</a>: US 46-107 25.5.7.1 [counted.iterator] Too many iterator increments
+  <br/>C++23
+  <br/>C++26
+  <br/>C++26
+  <br/>C++26
+<td>
+  <a href="https://wg21.link/P2406/github">github</a>
+  <a href="https://wg21.link/P2655/github">github</a>
+  <a href="https://wg21.link/P2769/github">github</a>
+  <a href="https://wg21.link/P1684/github">github</a>
+  <a href="https://wg21.link/P2022/github">github</a>
+<td>02-06 (Issaquah) <br/> 13:00 Pacific
 
 </table>
