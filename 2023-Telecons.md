@@ -18,12 +18,13 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <tr>
   
 <td>
-<a href="https://isocpp.org/files/papers/P2406R3.html">PXXXXRX</a>: TBD
+<a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2799r0.html">P2799R0</a>: Closed ranges may be a problem; breaking counted_iterator is not the solution
 <td>
-  TBD
+  Tim Song
 <td>
+  -
 <td>
-<td>
+<td><a href="http://wg21.link/P2799/github">github</a>
 <td>03-13 <br/> 09:30 Pacific
 
 </table>
