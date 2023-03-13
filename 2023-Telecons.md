@@ -17,19 +17,12 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 
 <tr>
   
+<td>TBD
+<td>TBD
 <td>
-<a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2799r0.html">P2799R0</a>: Closed ranges may be a problem; breaking counted_iterator is not the solution<br/>
-<a href="https://wg21.link/p2214">P2214R2</a>: A Plan for C++23 Ranges<br/>
-<a href="https://docs.google.com/spreadsheets/d/1L4NqXfD21To_BCycVuRn_sbfqOGMPVCZ/edit?usp=sharing&ouid=110629087461400411513&rtpof=true&sd=true">Ranges Status Document</a>
-<td>Tim Song
-<br/>Barry Revzin
-<br/>Inbal Levi
-<td>-
-<br/>-
-<br/>-
 <td>
-<td><a href="http://wg21.link/P2799/github">github</a><br/><a href="http://wg21.link/P2214/github">github</a><br/>-
-<td>03-13 <br/> 09:30 Pacific
+<td>
+<td>04-10 <br/> 09:30 Pacific
 
 </table>
   
@@ -134,4 +127,20 @@ Hui Xie, S. Levent Yilmaz;<br/>
   <a href="https://wg21.link/P2022/github">github</a>
 <td>02-06 (Issaquah) <br/> 13:00 Pacific
 
+<tr>
+    
+<td>
+<a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2799r0.html">P2799R0</a>: Closed ranges may be a problem; breaking counted_iterator is not the solution<br/>
+<a href="https://wg21.link/p2214">P2214R2</a>: A Plan for C++23 Ranges<br/>
+<a href="https://docs.google.com/spreadsheets/d/1L4NqXfD21To_BCycVuRn_sbfqOGMPVCZ/edit?usp=sharing&ouid=110629087461400411513&rtpof=true&sd=true">Ranges Status Document</a>
+<td>Tim Song
+<br/>Barry Revzin
+<br/>Inbal Levi
+<td>-
+<br/>-
+<br/>-
+<td>
+<td><a href="http://wg21.link/P2799/github">github</a><br/><a href="http://wg21.link/P2214/github">github</a><br/>-
+<td>03-13 <br/> 09:30 Pacific
+  
 </table>
