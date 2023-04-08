@@ -17,12 +17,12 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 
 <tr>
   
-<td><a href="https://isocpp.org/files/papers/P2836R0.html">P2836R0</a>: std::const_iterator often produces an unexpected type
-<td>Christopher Di Bella
-<td>DR agains C++23
+<td><a href="TBD">PXXXXRX</a>: TBD
 <td>
-<td><a href="http://wg21.link/P2836/github">github</a>
-<td>04-10 <br/> 09:30 Pacific
+<td>
+<td>
+<td>
+<td>05-01 <br/> 09:30 Pacific
 
 </table>
   
