@@ -22,7 +22,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <td>
 <td>
 <td>
-<td>05-01 <br/> 09:30 Pacific
+<td>05-15 <br/> 09:30 Pacific
 
 </table>
   
