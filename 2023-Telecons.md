@@ -17,11 +17,12 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 
 <tr>
   
-<td><a href="TBD">PXXXXRX</a>: TBD
+<td><a href="https://isocpp.org/files/papers/D2846R0.pdf">P2846R0</a>: size_hint: Eagerly reserving memory for not-quite-sized
+lazy ranges
+<td>Corentin Jabot
+<td>-
 <td>
-<td>
-<td>
-<td>
+<td><a href="https://wg21.link/P2846/github">github</a>
 <td>05-15 <br/> 09:30 Pacific
 
 </table>
