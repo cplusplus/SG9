@@ -17,7 +17,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 
 <tr>
   
-<td><a href="https://isocpp.org/files/papers/D2846R0.pdf">P2846R0</a>: size_hint: Eagerly reserving memory for not-quite-sized
+<td><a href="https://isocpp.org/files/papers/P2846R0.pdf">P2846R0</a>: size_hint: Eagerly reserving memory for not-quite-sized
 lazy ranges<br/>
   <a href="https://isocpp.org/files/papers/P2728R3.html">P2728R3</a>: Unicode in the Library, Part 1: UTF Transcoding
 <td>Corentin Jabot<br/>Zach Laine
