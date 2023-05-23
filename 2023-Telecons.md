@@ -24,7 +24,7 @@ lazy ranges<br/>
 <td>-<br/><br/>-
 <td>
 <td><a href="https://wg21.link/P2846/github">github</a><br/><a href="https://wg21.link/P2728/github">github</a>
-<td>05-15 <br/> 09:30 Pacific
+<td>06-12 <br/> 23:00 Pacific (Tentative)
 
 </table>
   
@@ -144,5 +144,17 @@ Hui Xie, S. Levent Yilmaz;<br/>
 <td>
 <td><a href="http://wg21.link/P2799/github">github</a><br/><a href="http://wg21.link/P2214/github">github</a><br/>-
 <td>03-13 <br/> 09:30 Pacific
+
   
+<tr>
+  
+<td><a href="https://isocpp.org/files/papers/P2846R0.pdf">P2846R0</a>: size_hint: Eagerly reserving memory for not-quite-sized
+lazy ranges<br/>
+  <a href="https://isocpp.org/files/papers/P2728R3.html">P2728R3</a>: Unicode in the Library, Part 1: UTF Transcoding
+<td>Corentin Jabot<br/>Zach Laine
+<td>-<br/><br/>-
+<td>
+<td><a href="https://wg21.link/P2846/github">github</a><br/><a href="https://wg21.link/P2728/github">github</a>
+<td>05-15 <br/> 09:30 Pacific
+ 
 </table>
