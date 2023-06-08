@@ -24,7 +24,7 @@ lazy ranges<br/>
 <td>-<br/><br/>-
 <td>
 <td><a href="https://wg21.link/P2846/github">github</a><br/><a href="https://wg21.link/P2728/github">github</a>
-<td>06-12 <br/> 23:00 Pacific (Tentative)
+<td>06-12 <br/> 00:30 Pacific
 
 </table>
   
