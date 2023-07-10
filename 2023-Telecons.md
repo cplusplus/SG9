@@ -17,19 +17,12 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 
 <tr>
   
-<td><a href="https://isocpp.org/files/papers/P2846R0.pdf">P2846R0</a>: size_hint: Eagerly reserving memory for not-quite-sized
-lazy ranges
-<br/><br/><a href="https://isocpp.org/files/papers/P2728R4.html">P2728R4</a>: Unicode in the Library, Part 1: UTF Transcoding
-<br/><br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r2.html">P2542R2</a>: views::concat
-<td>Corentin Jabot
-<br/><br/>Zach Laine
-<br/><br/>Hui Xie, S. Levent Yilmaz
-<td>-<br/><br/>-<br/><br/>-
+<td>(Tentative) <a href="https://isocpp.org/files/papers/P2728R3.html">P2728R3</a>: Unicode in the Library, Part 1: UTF Transcoding
+<td>Zach Laine
+<td>-
 <td>
-<td><a href="https://wg21.link/P2846/github">github</a>
-<br/><br/><a href="https://wg21.link/P2728/github">github</a>
-<br/><br/><a href="https://wg21.link/P2542/github">github</a>
-<td>06-12 <br/> 00:30 Pacific
+<td><a href="https://wg21.link/P2728/github">github</a>
+<td>07-10 <br/> 09:30 Pacific
 
 </table>
   
@@ -161,5 +154,22 @@ lazy ranges<br/>
 <td>
 <td><a href="https://wg21.link/P2846/github">github</a><br/><a href="https://wg21.link/P2728/github">github</a>
 <td>05-15 <br/> 09:30 Pacific
+
+<tr>
+  
+<td><a href="https://isocpp.org/files/papers/P2846R0.pdf">P2846R0</a>: size_hint: Eagerly reserving memory for not-quite-sized
+lazy ranges
+<br/><br/><a href="https://isocpp.org/files/papers/P2728R4.html">P2728R4</a>: Unicode in the Library, Part 1: UTF Transcoding
+<br/><br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r2.html">P2542R2</a>: views::concat
+<td>Corentin Jabot
+<br/><br/>Zach Laine
+<br/><br/>Hui Xie, S. Levent Yilmaz
+<td>-<br/><br/>-<br/><br/>-
+<td>
+<td><a href="https://wg21.link/P2846/github">github</a>
+<br/><br/><a href="https://wg21.link/P2728/github">github</a>
+<br/><br/><a href="https://wg21.link/P2542/github">github</a>
+<td>06-12 <br/> 00:30 Pacific
+
  
 </table>
