@@ -16,13 +16,16 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <th>Date & Time
 
 <tr>
-  
 <td><a href="https://isocpp.org/files/papers/P2728R5.html">P2728R5</a>: Unicode in the Library, Part 1: UTF Transcoding
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2022r2.pdf">R2022R2</a>: Rangified version of lexicographical_compare_three_way
 <td>Zach Laine
+<br/>Ran Regev
 <td>-
+<br/>-
 <td>
 <td><a href="https://wg21.link/P2728/github">github</a>
-<td>07-10 <br/> 09:30 Pacific
+<br/><a href="https://wg21.link/P2022/github">github</a>
+<td>08-14 <br/> 09:30 Pacific
 
 </table>
   
@@ -171,5 +174,13 @@ lazy ranges
 <br/><br/><a href="https://wg21.link/P2542/github">github</a>
 <td>06-12 <br/> 00:30 Pacific
 
+<tr>
+  
+<td><a href="https://isocpp.org/files/papers/P2728R5.html">P2728R5</a>: Unicode in the Library, Part 1: UTF Transcoding
+<td>Zach Laine
+<td>-
+<td>
+<td><a href="https://wg21.link/P2728/github">github</a>
+<td>07-10 <br/> 09:30 Pacific
  
 </table>
