@@ -17,19 +17,16 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 
 <tr>
 <td><a href="https://isocpp.org/files/papers/P2728R6.html">P2728R6</a>: Unicode in the Library, Part 1: UTF Transcoding
-<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2022r2.pdf">R2022R2</a>: Rangified version of lexicographical_compare_three_way
-<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2542r2.html">P2542R2</a>: views::concat (Tentative)
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2542r3.html">P2542R3</a>: views::concat
 <td>Zach Laine
-<br/>Ran Regev
 <br/>Hui Xie, S. Levent Yilmaz
 <td>-
 <br/>-
 <br/>-
 <td>
 <td><a href="https://wg21.link/P2728/github">github</a>
-<br/><a href="https://wg21.link/P2022/github">github</a>
 <br/><a href="https://wg21.link/P2542/github">github</a>
-<td>08-14 <br/> 09:30 Pacific
+<td>09-11 <br/> 09:30 Pacific
 
 </table>
   
@@ -186,5 +183,22 @@ lazy ranges
 <td>
 <td><a href="https://wg21.link/P2728/github">github</a>
 <td>07-10 <br/> 09:30 Pacific
- 
+
+
+<tr>
+<td><a href="https://isocpp.org/files/papers/P2728R6.html">P2728R6</a>: Unicode in the Library, Part 1: UTF Transcoding
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2022r2.pdf">R2022R2</a>: Rangified version of lexicographical_compare_three_way
+<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2542r3.html">P2542R3</a>: views::concat (Tentative)
+<td>Zach Laine
+<br/>Ran Regev
+<br/>Hui Xie, S. Levent Yilmaz
+<td>-
+<br/>-
+<br/>-
+<td>
+<td><a href="https://wg21.link/P2728/github">github</a>
+<br/><a href="https://wg21.link/P2022/github">github</a>
+<br/><a href="https://wg21.link/P2542/github">github</a>
+<td>08-14 <br/> 09:30 Pacific
+
 </table>
