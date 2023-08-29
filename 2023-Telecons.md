@@ -16,7 +16,8 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <th>Date & Time
 
 <tr>
-<td><a href="https://isocpp.org/files/papers/P2728R6.html">P2728R6</a>: Unicode in the Library, Part 1: UTF Transcoding
+<td><strong>SG9 Group Updates</strong>
+<br/><a href="https://isocpp.org/files/papers/P2728R6.html">P2728R6</a>: Unicode in the Library, Part 1: UTF Transcoding
 <br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2542r3.html">P2542R3</a>: views::concat
 <td>Zach Laine
 <br/>Hui Xie, S. Levent Yilmaz
@@ -51,7 +52,6 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <td>
 
 <!---  
-Deffered by LEWG
 <br/><a href="https://cplusplus.github.io/LWG/issue3534">LWG3534</a>: ranges::set_intersection and ranges::set_difference algorithm requirements are too strict
 <br/><a href="http://wg21.link/LWG3534/github">github</a>
 -->
