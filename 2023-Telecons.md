@@ -17,18 +17,25 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 
 <tr>
 <td><strong>SG9 Group Updates</strong>
-<br/><a href="https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2542r3.html">P2542R3</a>: views::concat
-<br/><a href="https://isocpp.org/files/papers/P2728R6.html">P2728R6</a>: Unicode in the Library, Part 1: UTF Transcoding
+<br/><a href="https://isocpp.org/files/papers/P2542R4.html">P2542R3</a>: views::concat
 <td>Inbal Levi
-<br/>Zach Laine
 <br/>Hui Xie, S. Levent Yilmaz
 <td>-
 <br/>-
-<br/>-
 <td>
-<td><a href="https://wg21.link/P2542/github">github</a>
-<br/><a href="https://wg21.link/P2728/github">github</a>
+<td>-
+<br/><a href="https://wg21.link/P2542/github">github</a>
 <td>09-11 <br/> 09:30 Pacific
+
+
+<tr>
+<td><a href="https://isocpp.org/files/papers/P2728R6.html">P2728R6</a>: Unicode in the Library, Part 1: UTF Transcoding
+<td>Zach Laine
+<td>-
+<td>
+<td><a href="https://wg21.link/P2728/github">github</a>
+<td>10-09 <br/> 09:30 Pacific
+
 
 </table>
   
