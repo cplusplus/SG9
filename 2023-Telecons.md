@@ -17,7 +17,7 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 
 <tr>
 <td><strong>SG9 Group Updates</strong>
-<br/><a href="https://isocpp.org/files/papers/P2542R4.html">P2542R3</a>: views::concat
+<br/><a href="https://isocpp.org/files/papers/P2542R4.html">P2542R4</a>: views::concat
 <td>Inbal Levi
 <br/>Hui Xie, S. Levent Yilmaz
 <td>-
