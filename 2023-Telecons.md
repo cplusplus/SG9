@@ -16,19 +16,6 @@ Minutes can be found here: https://wiki.edg.com/bin/view/Wg21telecons2023/SG9
 <th>Date & Time
 
 <tr>
-<td><strong>SG9 Group Updates</strong>
-<br/><a href="https://isocpp.org/files/papers/P2542R4.html">P2542R4</a>: views::concat
-<td>Inbal Levi
-<br/>Hui Xie, S. Levent Yilmaz
-<td>-
-<br/>-
-<td>
-<td>-
-<br/><a href="https://wg21.link/P2542/github">github</a>
-<td>09-11 <br/> 09:30 Pacific
-
-
-<tr>
 <td><a href="https://isocpp.org/files/papers/P2728R6.html">P2728R6</a>: Unicode in the Library, Part 1: UTF Transcoding
 <td>Zach Laine
 <td>-
@@ -208,5 +195,18 @@ lazy ranges
 <br/><a href="https://wg21.link/P2022/github">github</a>
 <br/><a href="https://wg21.link/P2542/github">github</a>
 <td>08-14 <br/> 09:30 Pacific
+
+<tr>
+<td><strong>SG9 Group Updates</strong>
+<br/><a href="https://isocpp.org/files/papers/P2542R4.html">P2542R4</a>: views::concat
+<td>Inbal Levi
+<br/>Hui Xie, S. Levent Yilmaz
+<td>-
+<br/>-
+<td>
+<td>-
+<br/><a href="https://wg21.link/P2542/github">github</a>
+<td>09-11 <br/> 09:30 Pacific
+
 
 </table>
